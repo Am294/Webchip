@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html ng-app="webchipApp">
+<head>
+	<title>WebCHIP 4.0</title>
+	<link rel="shortcut icon" type="image/png" href="static/favicon.png"/>
+	<!-- bower:css -->
+	<link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.css" />
+	<link rel="stylesheet" href="bower_components/c3/c3.css" />
+	<!-- endbower -->
+	<link href="css/webchip.css" rel="stylesheet" type="text/css" />
+	<!-- bower:js -->
+	<script src="bower_components/jquery/dist/jquery.js"></script>
+	<script src="bower_components/angular/angular.js"></script>
+	<script src="bower_components/bootstrap/dist/js/bootstrap.js"></script>
+	<script src="bower_components/d3/d3.js"></script>
+	<script src="bower_components/c3/c3.js"></script>
+	<script src="bower_components/underscore/underscore.js"></script>
+	<!-- endbower -->
+	<script src="js/helpers.js"></script>
+	<script type="text/javascript" src="js/webchipApp.js"></script>
+	<script type="text/javascript" src="js/uiService.js"></script>
+	<script type="text/javascript" src="js/dataService.js"></script>
+	<script type="text/javascript" src="js/tableService.js"></script>
+	<script type="text/javascript" src="js/mainController.js"></script>
+	<script type="text/javascript" src="js/ui.js"></script>
+	<script type="text/javascript" src="js/charts_tables.js"></script>
+
+</head>
+<body ng-controller="default">
+	<div class="container">
+	  <div class="row">
+	  	&nbsp;&nbsp;&nbsp;&nbsp;
+	  	<img src="static/favicon.png" height="55" width="86">
+	  	<span id="app-title">WebCHIP 4.0</span>
+	  </div>
+	  <p />
+	  <div class="col-md-3 center" id="control-panel">
+		  	<div class="panel">
+		  		<div class="panel-heading clearfix">
+		  			<span class="panel-caption" data-toggle="collapse" data-target="#dataset-options">Choose Dataset</span>
+		  		</div>
+		  		<div class="panel-body" id="dataset-options">
+		        	<select id="dataset-list" ng-model="na1" ng-options="obj.name group by obj.collection for obj in availableDatasets track by obj.path" ng-change="changeDataset()">
+		        		<option value=''>Select Dataset</option>
+		        	</select>
+		        	<br>
+		        	<br>
+		        	<span class="section-caption">Description:</span>
+		        	<p>
+		        		{{ title }}
+		        	</p>
+		        	<span class="section-caption">Variables:</span>
+		        	<p ng-repeat="obj in numberCategories" class="variable-descriptors"><b>{{ obj.var }}</b>: {{ obj.cats }} categories</p>
+		        	<br>
+		        	<button disabled id="btn-marginals" ng-click="generateMarginals()">Compute Marginals</button><br>
+		    	</div>
+		  	</div>
+		  	<hr class="panel-divider">
+		  	<div class="panel">
+		  		<div class="panel-heading clearfix">
+		  			<span class="panel-caption" data-toggle="collapse" data-target="#variable-options">Choose Variables</span>
+		  		</div>
+		  		<div class="panel-body" id="variable-options">
+		  			<span class="section-caption">Crosstab Variables:</span><br>
+		  				<label for="crosstab-row">Row: </label>
+			        	<select name="crosstab-row" id="crosstab-row" class="select-box" ng-model="na2" ng-options="obj for obj in varNames track by obj">
+			        		<option value=''>Select Row</option>
+			        	</select>
+			    	<br>
+			    		<label for="crosstab-row">Column: </label>
+			        	<select id="crosstab-col" class="select-box" ng-model="na3" ng-options="obj for obj in varNames track by obj">
+			        		<option value=''>Select Column</option>
+			        	</select>
+			        <br>
+			        <span class="section-caption">Control Variable(s):</span><br>
+						<!--
+			        	<select disabled id="control-var" class="select-box" ng-model="na5" ng-options="obj for obj in varNames track by obj">
+			        		<option value='' selected='selected'>Select Variable</option>
+			        	</select>
+						-->
+						<div id="control-var" class="checkbox">
+							<label ng-repeat="obj in varNames">
+								<input disabled type="checkbox" name="controlVars[]" value="{{ obj }}" />{{ obj }}
+							</label>
+						</div>
+			        <!--single var elements hidden until ISR wants to include single var-->
+			        <br class="single-var-elements">
+			        <br class="single-var-elements">
+			        <span class="section-caption single-var-elements">Single Variable:</span><br>
+			        	<select id="single-var" class="select-box single-var-elements" ng-model="na4" ng-options="obj for obj in varNames track by obj">
+			        		<option value='' selected='selected'>Select Variable</option>
+			        	</select>
+		    	</div>
+		  	</div>
+		  	<hr class="panel-divider">
+		  	<div class="panel">
+		    	<div class="panel-heading clearfix">
+		  			<span class="panel-caption" data-toggle="collapse" data-target="#table-options">Generate Table</span>
+		  		</div>
+		  		<br>
+		  		<div class="panel-body" id="table-options">
+		  			<button disabled id="btn-frequency" class="btn-table" ng-click="generateFrequency()">Frequency</button><br>
+		  			<button disabled id="btn-pctAcross" class="btn-table" ng-click="generatePctAcross()">Percent Across</button><br>
+		  			<button disabled id="btn-pctDown" class="btn-table" ng-click="generatePctDown()">Percent Down</button><br>
+		  		</div>
+		    </div>
+		    <hr class="panel-divider">
+		    <div class="panel">
+		    	<div class="panel-heading clearfix">
+		  			<span class="panel-caption" data-toggle="collapse" data-target="#chart-options">Generate Chart</span>
+		  		</div>
+		  		<br>
+		  		<div class="panel-body" id="chart-options">
+		  			<p id="chart-method">Chart Method: {{ chartMethod }}</p>
+		  			<button disabled id="btn-barChart" class="btn-chart" ng-click="generateBarChart()">Bar Chart</button><br>
+		  			<button disabled id="btn-pieChart" class="btn-chart" ng-click="generatePieChart()">Pie Chart</button><br>
+		  			<button disabled id="btn-lineChart" class="btn-chart" ng-click="generateLineChart()">Line Chart</button><br>
+		  			<button disabled id="btn-stackedBar" class="btn-chart" ng-click="generateStackedBar()">Stacked Bar</button><br>
+		  		</div>
+		  	</div>
+		  </div>
+	  <div class="col-md-7 center" id="workbook-container">
+	  	<div id="workbook-header">
+	  		<span id="workbook-caption">&nbsp;&nbsp;&nbsp;Workbook</span>
+	  		<button id='print-button' onclick="printElement('#workbook');"><img src="static/print.png" height="20px" width="20px"></img></button>
+	  	</div>
+	  	<div id="workbook">
+	  	</div>
+	  </div>
+
+	  <div class="col-md-2 center" id="command-history">
+	  	<span class="panel-caption" id="command-history-header">Dataset History<span>
+	  	<br>
+	  	<br>
+	  	<div id="command-history-body">
+	  	</div>
+	  </div>
+	</div>
+	<p />
+	<div class="row">
+		<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Footer content goes here</p
+	</div>
+	<script src="js/ui.js"></script>
+	<script src="js/charts_tables.js"></script>
+</body>
+
+</html>

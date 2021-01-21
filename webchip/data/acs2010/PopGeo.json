@@ -1,0 +1,6335 @@
+{
+    "numCats": [
+        7, 
+        4, 
+        4, 
+        8
+    ], 
+    "varCats": [
+        {
+            "cats": [
+                "NHWhite", 
+                "Black", 
+                "Asian", 
+                "Hispanic", 
+                "AmIndian", 
+                "NHOther", 
+                "NHMulti"
+            ], 
+            "name": "RaceEth"
+        }, 
+        {
+            "cats": [
+                "Northeast", 
+                "Midwest", 
+                "South", 
+                "West"
+            ], 
+            "name": "Region"
+        }, 
+        {
+            "cats": [
+                "City", 
+                "Suburb", 
+                "NonMetro", 
+                "Mixed"
+            ], 
+            "name": "Geo"
+        }, 
+        {
+            "cats": [
+                "0-4", 
+                "5-14", 
+                "15-24", 
+                "25-34", 
+                "35-44", 
+                "45-54", 
+                "55-64", 
+                "65+"
+            ], 
+            "name": "AgeAll"
+        }
+    ], 
+    "title": "U.S. Population by age groups, metro, regions, and race/ethnicity, wgtd 2008-10 ACS, SSDAN/U-Mich", 
+    "numOfVars": 4, 
+    "varNames": [
+        "RaceEth", 
+        "Region", 
+        "Geo", 
+        "AgeAll"
+    ], 
+    "theData": [
+        {
+            "Dep": "233542", 
+            "Geo": "City", 
+            "Region": "Northeast", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "367147", 
+            "Geo": "City", 
+            "Region": "Northeast", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "707405", 
+            "Geo": "City", 
+            "Region": "Northeast", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "889213", 
+            "Geo": "City", 
+            "Region": "Northeast", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "634754", 
+            "Geo": "City", 
+            "Region": "Northeast", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "644856", 
+            "Geo": "City", 
+            "Region": "Northeast", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "598511", 
+            "Geo": "City", 
+            "Region": "Northeast", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "806947", 
+            "Geo": "City", 
+            "Region": "Northeast", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "958735", 
+            "Geo": "Suburb", 
+            "Region": "Northeast", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "2337696", 
+            "Geo": "Suburb", 
+            "Region": "Northeast", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "2260268", 
+            "Geo": "Suburb", 
+            "Region": "Northeast", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "1918475", 
+            "Geo": "Suburb", 
+            "Region": "Northeast", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "2583142", 
+            "Geo": "Suburb", 
+            "Region": "Northeast", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "3268827", 
+            "Geo": "Suburb", 
+            "Region": "Northeast", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "2611588", 
+            "Geo": "Suburb", 
+            "Region": "Northeast", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "3216486", 
+            "Geo": "Suburb", 
+            "Region": "Northeast", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "211714", 
+            "Geo": "NonMetro", 
+            "Region": "Northeast", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "469580", 
+            "Geo": "NonMetro", 
+            "Region": "Northeast", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "551715", 
+            "Geo": "NonMetro", 
+            "Region": "Northeast", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "426753", 
+            "Geo": "NonMetro", 
+            "Region": "Northeast", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "525871", 
+            "Geo": "NonMetro", 
+            "Region": "Northeast", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "670042", 
+            "Geo": "NonMetro", 
+            "Region": "Northeast", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "591371", 
+            "Geo": "NonMetro", 
+            "Region": "Northeast", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "699669", 
+            "Geo": "NonMetro", 
+            "Region": "Northeast", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "458067", 
+            "Geo": "Mixed", 
+            "Region": "Northeast", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "1090873", 
+            "Geo": "Mixed", 
+            "Region": "Northeast", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "1320681", 
+            "Geo": "Mixed", 
+            "Region": "Northeast", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "1040109", 
+            "Geo": "Mixed", 
+            "Region": "Northeast", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "1303468", 
+            "Geo": "Mixed", 
+            "Region": "Northeast", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "1655884", 
+            "Geo": "Mixed", 
+            "Region": "Northeast", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "1376023", 
+            "Geo": "Mixed", 
+            "Region": "Northeast", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "1686917", 
+            "Geo": "Mixed", 
+            "Region": "Northeast", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "208478", 
+            "Geo": "City", 
+            "Region": "Midwest", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "334163", 
+            "Geo": "City", 
+            "Region": "Midwest", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "624274", 
+            "Geo": "City", 
+            "Region": "Midwest", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "759055", 
+            "Geo": "City", 
+            "Region": "Midwest", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "541687", 
+            "Geo": "City", 
+            "Region": "Midwest", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "600503", 
+            "Geo": "City", 
+            "Region": "Midwest", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "507873", 
+            "Geo": "City", 
+            "Region": "Midwest", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "587428", 
+            "Geo": "City", 
+            "Region": "Midwest", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "843166", 
+            "Geo": "Suburb", 
+            "Region": "Midwest", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "1985730", 
+            "Geo": "Suburb", 
+            "Region": "Midwest", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "1825664", 
+            "Geo": "Suburb", 
+            "Region": "Midwest", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "1778721", 
+            "Geo": "Suburb", 
+            "Region": "Midwest", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "2107416", 
+            "Geo": "Suburb", 
+            "Region": "Midwest", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "2595147", 
+            "Geo": "Suburb", 
+            "Region": "Midwest", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "2020562", 
+            "Geo": "Suburb", 
+            "Region": "Midwest", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "2277149", 
+            "Geo": "Suburb", 
+            "Region": "Midwest", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "756728", 
+            "Geo": "NonMetro", 
+            "Region": "Midwest", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "1628243", 
+            "Geo": "NonMetro", 
+            "Region": "Midwest", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "1727008", 
+            "Geo": "NonMetro", 
+            "Region": "Midwest", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "1426407", 
+            "Geo": "NonMetro", 
+            "Region": "Midwest", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "1593338", 
+            "Geo": "NonMetro", 
+            "Region": "Midwest", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "2058341", 
+            "Geo": "NonMetro", 
+            "Region": "Midwest", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "1768272", 
+            "Geo": "NonMetro", 
+            "Region": "Midwest", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "2319733", 
+            "Geo": "NonMetro", 
+            "Region": "Midwest", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "1084407", 
+            "Geo": "Mixed", 
+            "Region": "Midwest", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "2358920", 
+            "Geo": "Mixed", 
+            "Region": "Midwest", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "2715437", 
+            "Geo": "Mixed", 
+            "Region": "Midwest", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "2333482", 
+            "Geo": "Mixed", 
+            "Region": "Midwest", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "2508968", 
+            "Geo": "Mixed", 
+            "Region": "Midwest", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "3017819", 
+            "Geo": "Mixed", 
+            "Region": "Midwest", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "2446625", 
+            "Geo": "Mixed", 
+            "Region": "Midwest", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "2778539", 
+            "Geo": "Mixed", 
+            "Region": "Midwest", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "274930", 
+            "Geo": "City", 
+            "Region": "South", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "494903", 
+            "Geo": "City", 
+            "Region": "South", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "866290", 
+            "Geo": "City", 
+            "Region": "South", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "947857", 
+            "Geo": "City", 
+            "Region": "South", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "768051", 
+            "Geo": "City", 
+            "Region": "South", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "865082", 
+            "Geo": "City", 
+            "Region": "South", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "751306", 
+            "Geo": "City", 
+            "Region": "South", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "882180", 
+            "Geo": "City", 
+            "Region": "South", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "946957", 
+            "Geo": "Suburb", 
+            "Region": "South", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "2124032", 
+            "Geo": "Suburb", 
+            "Region": "South", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "1948681", 
+            "Geo": "Suburb", 
+            "Region": "South", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "1959226", 
+            "Geo": "Suburb", 
+            "Region": "South", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "2409040", 
+            "Geo": "Suburb", 
+            "Region": "South", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "2826341", 
+            "Geo": "Suburb", 
+            "Region": "South", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "2347030", 
+            "Geo": "Suburb", 
+            "Region": "South", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "2700728", 
+            "Geo": "Suburb", 
+            "Region": "South", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "827148", 
+            "Geo": "NonMetro", 
+            "Region": "South", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "1770055", 
+            "Geo": "NonMetro", 
+            "Region": "South", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "1928431", 
+            "Geo": "NonMetro", 
+            "Region": "South", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "1655469", 
+            "Geo": "NonMetro", 
+            "Region": "South", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "1957658", 
+            "Geo": "NonMetro", 
+            "Region": "South", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "2320082", 
+            "Geo": "NonMetro", 
+            "Region": "South", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "2193807", 
+            "Geo": "NonMetro", 
+            "Region": "South", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "2844793", 
+            "Geo": "NonMetro", 
+            "Region": "South", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "1593026", 
+            "Geo": "Mixed", 
+            "Region": "South", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "3375215", 
+            "Geo": "Mixed", 
+            "Region": "South", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "3813068", 
+            "Geo": "Mixed", 
+            "Region": "South", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "3597219", 
+            "Geo": "Mixed", 
+            "Region": "South", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "3955531", 
+            "Geo": "Mixed", 
+            "Region": "South", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "4641968", 
+            "Geo": "Mixed", 
+            "Region": "South", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "4030111", 
+            "Geo": "Mixed", 
+            "Region": "South", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "4920953", 
+            "Geo": "Mixed", 
+            "Region": "South", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "192650", 
+            "Geo": "City", 
+            "Region": "West", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "340195", 
+            "Geo": "City", 
+            "Region": "West", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "521237", 
+            "Geo": "City", 
+            "Region": "West", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "688113", 
+            "Geo": "City", 
+            "Region": "West", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "603086", 
+            "Geo": "City", 
+            "Region": "West", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "633916", 
+            "Geo": "City", 
+            "Region": "West", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "552099", 
+            "Geo": "City", 
+            "Region": "West", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "597315", 
+            "Geo": "City", 
+            "Region": "West", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "573928", 
+            "Geo": "Suburb", 
+            "Region": "West", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "1281661", 
+            "Geo": "Suburb", 
+            "Region": "West", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "1323713", 
+            "Geo": "Suburb", 
+            "Region": "West", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "1318932", 
+            "Geo": "Suburb", 
+            "Region": "West", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "1537969", 
+            "Geo": "Suburb", 
+            "Region": "West", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "1928085", 
+            "Geo": "Suburb", 
+            "Region": "West", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "1593361", 
+            "Geo": "Suburb", 
+            "Region": "West", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "1746066", 
+            "Geo": "Suburb", 
+            "Region": "West", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "301636", 
+            "Geo": "NonMetro", 
+            "Region": "West", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "626257", 
+            "Geo": "NonMetro", 
+            "Region": "West", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "672000", 
+            "Geo": "NonMetro", 
+            "Region": "West", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "613996", 
+            "Geo": "NonMetro", 
+            "Region": "West", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "640195", 
+            "Geo": "NonMetro", 
+            "Region": "West", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "876759", 
+            "Geo": "NonMetro", 
+            "Region": "West", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "860906", 
+            "Geo": "NonMetro", 
+            "Region": "West", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "957591", 
+            "Geo": "NonMetro", 
+            "Region": "West", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "886438", 
+            "Geo": "Mixed", 
+            "Region": "West", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "1806981", 
+            "Geo": "Mixed", 
+            "Region": "West", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "2186255", 
+            "Geo": "Mixed", 
+            "Region": "West", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "2174401", 
+            "Geo": "Mixed", 
+            "Region": "West", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "2166807", 
+            "Geo": "Mixed", 
+            "Region": "West", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "2624994", 
+            "Geo": "Mixed", 
+            "Region": "West", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "2370254", 
+            "Geo": "Mixed", 
+            "Region": "West", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "2762926", 
+            "Geo": "Mixed", 
+            "Region": "West", 
+            "RaceEth": "NHWhite", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "256446", 
+            "Geo": "City", 
+            "Region": "Northeast", 
+            "RaceEth": "Black", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "530859", 
+            "Geo": "City", 
+            "Region": "Northeast", 
+            "RaceEth": "Black", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "614241", 
+            "Geo": "City", 
+            "Region": "Northeast", 
+            "RaceEth": "Black", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "507365", 
+            "Geo": "City", 
+            "Region": "Northeast", 
+            "RaceEth": "Black", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "500402", 
+            "Geo": "City", 
+            "Region": "Northeast", 
+            "RaceEth": "Black", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "527132", 
+            "Geo": "City", 
+            "Region": "Northeast", 
+            "RaceEth": "Black", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "375723", 
+            "Geo": "City", 
+            "Region": "Northeast", 
+            "RaceEth": "Black", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "386214", 
+            "Geo": "City", 
+            "Region": "Northeast", 
+            "RaceEth": "Black", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "121549", 
+            "Geo": "Suburb", 
+            "Region": "Northeast", 
+            "RaceEth": "Black", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "284371", 
+            "Geo": "Suburb", 
+            "Region": "Northeast", 
+            "RaceEth": "Black", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "315799", 
+            "Geo": "Suburb", 
+            "Region": "Northeast", 
+            "RaceEth": "Black", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "241831", 
+            "Geo": "Suburb", 
+            "Region": "Northeast", 
+            "RaceEth": "Black", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "287196", 
+            "Geo": "Suburb", 
+            "Region": "Northeast", 
+            "RaceEth": "Black", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "276280", 
+            "Geo": "Suburb", 
+            "Region": "Northeast", 
+            "RaceEth": "Black", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "183935", 
+            "Geo": "Suburb", 
+            "Region": "Northeast", 
+            "RaceEth": "Black", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "173441", 
+            "Geo": "Suburb", 
+            "Region": "Northeast", 
+            "RaceEth": "Black", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "5064", 
+            "Geo": "NonMetro", 
+            "Region": "Northeast", 
+            "RaceEth": "Black", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "14782", 
+            "Geo": "NonMetro", 
+            "Region": "Northeast", 
+            "RaceEth": "Black", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "28771", 
+            "Geo": "NonMetro", 
+            "Region": "Northeast", 
+            "RaceEth": "Black", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "18080", 
+            "Geo": "NonMetro", 
+            "Region": "Northeast", 
+            "RaceEth": "Black", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "17863", 
+            "Geo": "NonMetro", 
+            "Region": "Northeast", 
+            "RaceEth": "Black", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "15570", 
+            "Geo": "NonMetro", 
+            "Region": "Northeast", 
+            "RaceEth": "Black", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "8058", 
+            "Geo": "NonMetro", 
+            "Region": "Northeast", 
+            "RaceEth": "Black", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "4929", 
+            "Geo": "NonMetro", 
+            "Region": "Northeast", 
+            "RaceEth": "Black", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "59619", 
+            "Geo": "Mixed", 
+            "Region": "Northeast", 
+            "RaceEth": "Black", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "118113", 
+            "Geo": "Mixed", 
+            "Region": "Northeast", 
+            "RaceEth": "Black", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "139119", 
+            "Geo": "Mixed", 
+            "Region": "Northeast", 
+            "RaceEth": "Black", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "106718", 
+            "Geo": "Mixed", 
+            "Region": "Northeast", 
+            "RaceEth": "Black", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "114422", 
+            "Geo": "Mixed", 
+            "Region": "Northeast", 
+            "RaceEth": "Black", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "104375", 
+            "Geo": "Mixed", 
+            "Region": "Northeast", 
+            "RaceEth": "Black", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "64454", 
+            "Geo": "Mixed", 
+            "Region": "Northeast", 
+            "RaceEth": "Black", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "56701", 
+            "Geo": "Mixed", 
+            "Region": "Northeast", 
+            "RaceEth": "Black", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "236121", 
+            "Geo": "City", 
+            "Region": "Midwest", 
+            "RaceEth": "Black", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "480462", 
+            "Geo": "City", 
+            "Region": "Midwest", 
+            "RaceEth": "Black", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "505229", 
+            "Geo": "City", 
+            "Region": "Midwest", 
+            "RaceEth": "Black", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "381486", 
+            "Geo": "City", 
+            "Region": "Midwest", 
+            "RaceEth": "Black", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "383290", 
+            "Geo": "City", 
+            "Region": "Midwest", 
+            "RaceEth": "Black", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "416824", 
+            "Geo": "City", 
+            "Region": "Midwest", 
+            "RaceEth": "Black", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "308169", 
+            "Geo": "City", 
+            "Region": "Midwest", 
+            "RaceEth": "Black", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "307926", 
+            "Geo": "City", 
+            "Region": "Midwest", 
+            "RaceEth": "Black", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "117683", 
+            "Geo": "Suburb", 
+            "Region": "Midwest", 
+            "RaceEth": "Black", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "267122", 
+            "Geo": "Suburb", 
+            "Region": "Midwest", 
+            "RaceEth": "Black", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "261763", 
+            "Geo": "Suburb", 
+            "Region": "Midwest", 
+            "RaceEth": "Black", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "215578", 
+            "Geo": "Suburb", 
+            "Region": "Midwest", 
+            "RaceEth": "Black", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "235780", 
+            "Geo": "Suburb", 
+            "Region": "Midwest", 
+            "RaceEth": "Black", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "218980", 
+            "Geo": "Suburb", 
+            "Region": "Midwest", 
+            "RaceEth": "Black", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "154962", 
+            "Geo": "Suburb", 
+            "Region": "Midwest", 
+            "RaceEth": "Black", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "127872", 
+            "Geo": "Suburb", 
+            "Region": "Midwest", 
+            "RaceEth": "Black", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "20192", 
+            "Geo": "NonMetro", 
+            "Region": "Midwest", 
+            "RaceEth": "Black", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "38321", 
+            "Geo": "NonMetro", 
+            "Region": "Midwest", 
+            "RaceEth": "Black", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "68464", 
+            "Geo": "NonMetro", 
+            "Region": "Midwest", 
+            "RaceEth": "Black", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "51574", 
+            "Geo": "NonMetro", 
+            "Region": "Midwest", 
+            "RaceEth": "Black", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "43938", 
+            "Geo": "NonMetro", 
+            "Region": "Midwest", 
+            "RaceEth": "Black", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "38063", 
+            "Geo": "NonMetro", 
+            "Region": "Midwest", 
+            "RaceEth": "Black", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "21826", 
+            "Geo": "NonMetro", 
+            "Region": "Midwest", 
+            "RaceEth": "Black", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "18352", 
+            "Geo": "NonMetro", 
+            "Region": "Midwest", 
+            "RaceEth": "Black", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "163654", 
+            "Geo": "Mixed", 
+            "Region": "Midwest", 
+            "RaceEth": "Black", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "322294", 
+            "Geo": "Mixed", 
+            "Region": "Midwest", 
+            "RaceEth": "Black", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "350315", 
+            "Geo": "Mixed", 
+            "Region": "Midwest", 
+            "RaceEth": "Black", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "272279", 
+            "Geo": "Mixed", 
+            "Region": "Midwest", 
+            "RaceEth": "Black", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "268485", 
+            "Geo": "Mixed", 
+            "Region": "Midwest", 
+            "RaceEth": "Black", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "261610", 
+            "Geo": "Mixed", 
+            "Region": "Midwest", 
+            "RaceEth": "Black", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "170847", 
+            "Geo": "Mixed", 
+            "Region": "Midwest", 
+            "RaceEth": "Black", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "150681", 
+            "Geo": "Mixed", 
+            "Region": "Midwest", 
+            "RaceEth": "Black", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "323224", 
+            "Geo": "City", 
+            "Region": "South", 
+            "RaceEth": "Black", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "624266", 
+            "Geo": "City", 
+            "Region": "South", 
+            "RaceEth": "Black", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "759290", 
+            "Geo": "City", 
+            "Region": "South", 
+            "RaceEth": "Black", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "606424", 
+            "Geo": "City", 
+            "Region": "South", 
+            "RaceEth": "Black", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "545264", 
+            "Geo": "City", 
+            "Region": "South", 
+            "RaceEth": "Black", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "591559", 
+            "Geo": "City", 
+            "Region": "South", 
+            "RaceEth": "Black", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "421716", 
+            "Geo": "City", 
+            "Region": "South", 
+            "RaceEth": "Black", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "389323", 
+            "Geo": "City", 
+            "Region": "South", 
+            "RaceEth": "Black", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "396905", 
+            "Geo": "Suburb", 
+            "Region": "South", 
+            "RaceEth": "Black", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "885400", 
+            "Geo": "Suburb", 
+            "Region": "South", 
+            "RaceEth": "Black", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "843660", 
+            "Geo": "Suburb", 
+            "Region": "South", 
+            "RaceEth": "Black", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "764688", 
+            "Geo": "Suburb", 
+            "Region": "South", 
+            "RaceEth": "Black", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "853156", 
+            "Geo": "Suburb", 
+            "Region": "South", 
+            "RaceEth": "Black", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "772279", 
+            "Geo": "Suburb", 
+            "Region": "South", 
+            "RaceEth": "Black", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "484734", 
+            "Geo": "Suburb", 
+            "Region": "South", 
+            "RaceEth": "Black", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "348997", 
+            "Geo": "Suburb", 
+            "Region": "South", 
+            "RaceEth": "Black", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "270880", 
+            "Geo": "NonMetro", 
+            "Region": "South", 
+            "RaceEth": "Black", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "560575", 
+            "Geo": "NonMetro", 
+            "Region": "South", 
+            "RaceEth": "Black", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "637174", 
+            "Geo": "NonMetro", 
+            "Region": "South", 
+            "RaceEth": "Black", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "473032", 
+            "Geo": "NonMetro", 
+            "Region": "South", 
+            "RaceEth": "Black", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "490637", 
+            "Geo": "NonMetro", 
+            "Region": "South", 
+            "RaceEth": "Black", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "546284", 
+            "Geo": "NonMetro", 
+            "Region": "South", 
+            "RaceEth": "Black", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "405372", 
+            "Geo": "NonMetro", 
+            "Region": "South", 
+            "RaceEth": "Black", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "394595", 
+            "Geo": "NonMetro", 
+            "Region": "South", 
+            "RaceEth": "Black", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "651389", 
+            "Geo": "Mixed", 
+            "Region": "South", 
+            "RaceEth": "Black", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "1313494", 
+            "Geo": "Mixed", 
+            "Region": "South", 
+            "RaceEth": "Black", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "1436040", 
+            "Geo": "Mixed", 
+            "Region": "South", 
+            "RaceEth": "Black", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "1166702", 
+            "Geo": "Mixed", 
+            "Region": "South", 
+            "RaceEth": "Black", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "1147939", 
+            "Geo": "Mixed", 
+            "Region": "South", 
+            "RaceEth": "Black", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "1168004", 
+            "Geo": "Mixed", 
+            "Region": "South", 
+            "RaceEth": "Black", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "805958", 
+            "Geo": "Mixed", 
+            "Region": "South", 
+            "RaceEth": "Black", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "704222", 
+            "Geo": "Mixed", 
+            "Region": "South", 
+            "RaceEth": "Black", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "66800", 
+            "Geo": "City", 
+            "Region": "West", 
+            "RaceEth": "Black", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "134820", 
+            "Geo": "City", 
+            "Region": "West", 
+            "RaceEth": "Black", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "152655", 
+            "Geo": "City", 
+            "Region": "West", 
+            "RaceEth": "Black", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "125513", 
+            "Geo": "City", 
+            "Region": "West", 
+            "RaceEth": "Black", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "125413", 
+            "Geo": "City", 
+            "Region": "West", 
+            "RaceEth": "Black", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "136990", 
+            "Geo": "City", 
+            "Region": "West", 
+            "RaceEth": "Black", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "96841", 
+            "Geo": "City", 
+            "Region": "West", 
+            "RaceEth": "Black", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "99532", 
+            "Geo": "City", 
+            "Region": "West", 
+            "RaceEth": "Black", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "81615", 
+            "Geo": "Suburb", 
+            "Region": "West", 
+            "RaceEth": "Black", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "187810", 
+            "Geo": "Suburb", 
+            "Region": "West", 
+            "RaceEth": "Black", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "209372", 
+            "Geo": "Suburb", 
+            "Region": "West", 
+            "RaceEth": "Black", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "168250", 
+            "Geo": "Suburb", 
+            "Region": "West", 
+            "RaceEth": "Black", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "181293", 
+            "Geo": "Suburb", 
+            "Region": "West", 
+            "RaceEth": "Black", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "192141", 
+            "Geo": "Suburb", 
+            "Region": "West", 
+            "RaceEth": "Black", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "122053", 
+            "Geo": "Suburb", 
+            "Region": "West", 
+            "RaceEth": "Black", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "105731", 
+            "Geo": "Suburb", 
+            "Region": "West", 
+            "RaceEth": "Black", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "4642", 
+            "Geo": "NonMetro", 
+            "Region": "West", 
+            "RaceEth": "Black", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "9756", 
+            "Geo": "NonMetro", 
+            "Region": "West", 
+            "RaceEth": "Black", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "18403", 
+            "Geo": "NonMetro", 
+            "Region": "West", 
+            "RaceEth": "Black", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "14475", 
+            "Geo": "NonMetro", 
+            "Region": "West", 
+            "RaceEth": "Black", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "15498", 
+            "Geo": "NonMetro", 
+            "Region": "West", 
+            "RaceEth": "Black", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "13722", 
+            "Geo": "NonMetro", 
+            "Region": "West", 
+            "RaceEth": "Black", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "7495", 
+            "Geo": "NonMetro", 
+            "Region": "West", 
+            "RaceEth": "Black", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "5660", 
+            "Geo": "NonMetro", 
+            "Region": "West", 
+            "RaceEth": "Black", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "74166", 
+            "Geo": "Mixed", 
+            "Region": "West", 
+            "RaceEth": "Black", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "150993", 
+            "Geo": "Mixed", 
+            "Region": "West", 
+            "RaceEth": "Black", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "184253", 
+            "Geo": "Mixed", 
+            "Region": "West", 
+            "RaceEth": "Black", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "159966", 
+            "Geo": "Mixed", 
+            "Region": "West", 
+            "RaceEth": "Black", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "159652", 
+            "Geo": "Mixed", 
+            "Region": "West", 
+            "RaceEth": "Black", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "153045", 
+            "Geo": "Mixed", 
+            "Region": "West", 
+            "RaceEth": "Black", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "104174", 
+            "Geo": "Mixed", 
+            "Region": "West", 
+            "RaceEth": "Black", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "84371", 
+            "Geo": "Mixed", 
+            "Region": "West", 
+            "RaceEth": "Black", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "78947", 
+            "Geo": "City", 
+            "Region": "Northeast", 
+            "RaceEth": "Asian", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "139295", 
+            "Geo": "City", 
+            "Region": "Northeast", 
+            "RaceEth": "Asian", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "216974", 
+            "Geo": "City", 
+            "Region": "Northeast", 
+            "RaceEth": "Asian", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "285148", 
+            "Geo": "City", 
+            "Region": "Northeast", 
+            "RaceEth": "Asian", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "215815", 
+            "Geo": "City", 
+            "Region": "Northeast", 
+            "RaceEth": "Asian", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "192114", 
+            "Geo": "City", 
+            "Region": "Northeast", 
+            "RaceEth": "Asian", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "139689", 
+            "Geo": "City", 
+            "Region": "Northeast", 
+            "RaceEth": "Asian", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "121206", 
+            "Geo": "City", 
+            "Region": "Northeast", 
+            "RaceEth": "Asian", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "89756", 
+            "Geo": "Suburb", 
+            "Region": "Northeast", 
+            "RaceEth": "Asian", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "185499", 
+            "Geo": "Suburb", 
+            "Region": "Northeast", 
+            "RaceEth": "Asian", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "155533", 
+            "Geo": "Suburb", 
+            "Region": "Northeast", 
+            "RaceEth": "Asian", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "213216", 
+            "Geo": "Suburb", 
+            "Region": "Northeast", 
+            "RaceEth": "Asian", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "232816", 
+            "Geo": "Suburb", 
+            "Region": "Northeast", 
+            "RaceEth": "Asian", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "186830", 
+            "Geo": "Suburb", 
+            "Region": "Northeast", 
+            "RaceEth": "Asian", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "123906", 
+            "Geo": "Suburb", 
+            "Region": "Northeast", 
+            "RaceEth": "Asian", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "95904", 
+            "Geo": "Suburb", 
+            "Region": "Northeast", 
+            "RaceEth": "Asian", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "2467", 
+            "Geo": "NonMetro", 
+            "Region": "Northeast", 
+            "RaceEth": "Asian", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "5492", 
+            "Geo": "NonMetro", 
+            "Region": "Northeast", 
+            "RaceEth": "Asian", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "13244", 
+            "Geo": "NonMetro", 
+            "Region": "Northeast", 
+            "RaceEth": "Asian", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "7396", 
+            "Geo": "NonMetro", 
+            "Region": "Northeast", 
+            "RaceEth": "Asian", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "7159", 
+            "Geo": "NonMetro", 
+            "Region": "Northeast", 
+            "RaceEth": "Asian", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "5544", 
+            "Geo": "NonMetro", 
+            "Region": "Northeast", 
+            "RaceEth": "Asian", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "2655", 
+            "Geo": "NonMetro", 
+            "Region": "Northeast", 
+            "RaceEth": "Asian", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "2792", 
+            "Geo": "NonMetro", 
+            "Region": "Northeast", 
+            "RaceEth": "Asian", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "22747", 
+            "Geo": "Mixed", 
+            "Region": "Northeast", 
+            "RaceEth": "Asian", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "48272", 
+            "Geo": "Mixed", 
+            "Region": "Northeast", 
+            "RaceEth": "Asian", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "54164", 
+            "Geo": "Mixed", 
+            "Region": "Northeast", 
+            "RaceEth": "Asian", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "60072", 
+            "Geo": "Mixed", 
+            "Region": "Northeast", 
+            "RaceEth": "Asian", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "63646", 
+            "Geo": "Mixed", 
+            "Region": "Northeast", 
+            "RaceEth": "Asian", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "43458", 
+            "Geo": "Mixed", 
+            "Region": "Northeast", 
+            "RaceEth": "Asian", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "28455", 
+            "Geo": "Mixed", 
+            "Region": "Northeast", 
+            "RaceEth": "Asian", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "21729", 
+            "Geo": "Mixed", 
+            "Region": "Northeast", 
+            "RaceEth": "Asian", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "24940", 
+            "Geo": "City", 
+            "Region": "Midwest", 
+            "RaceEth": "Asian", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "41862", 
+            "Geo": "City", 
+            "Region": "Midwest", 
+            "RaceEth": "Asian", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "71039", 
+            "Geo": "City", 
+            "Region": "Midwest", 
+            "RaceEth": "Asian", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "85408", 
+            "Geo": "City", 
+            "Region": "Midwest", 
+            "RaceEth": "Asian", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "50886", 
+            "Geo": "City", 
+            "Region": "Midwest", 
+            "RaceEth": "Asian", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "33501", 
+            "Geo": "City", 
+            "Region": "Midwest", 
+            "RaceEth": "Asian", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "27966", 
+            "Geo": "City", 
+            "Region": "Midwest", 
+            "RaceEth": "Asian", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "26565", 
+            "Geo": "City", 
+            "Region": "Midwest", 
+            "RaceEth": "Asian", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "52056", 
+            "Geo": "Suburb", 
+            "Region": "Midwest", 
+            "RaceEth": "Asian", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "101516", 
+            "Geo": "Suburb", 
+            "Region": "Midwest", 
+            "RaceEth": "Asian", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "75518", 
+            "Geo": "Suburb", 
+            "Region": "Midwest", 
+            "RaceEth": "Asian", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "113961", 
+            "Geo": "Suburb", 
+            "Region": "Midwest", 
+            "RaceEth": "Asian", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "121050", 
+            "Geo": "Suburb", 
+            "Region": "Midwest", 
+            "RaceEth": "Asian", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "83507", 
+            "Geo": "Suburb", 
+            "Region": "Midwest", 
+            "RaceEth": "Asian", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "59849", 
+            "Geo": "Suburb", 
+            "Region": "Midwest", 
+            "RaceEth": "Asian", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "45485", 
+            "Geo": "Suburb", 
+            "Region": "Midwest", 
+            "RaceEth": "Asian", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "5938", 
+            "Geo": "NonMetro", 
+            "Region": "Midwest", 
+            "RaceEth": "Asian", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "12010", 
+            "Geo": "NonMetro", 
+            "Region": "Midwest", 
+            "RaceEth": "Asian", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "20653", 
+            "Geo": "NonMetro", 
+            "Region": "Midwest", 
+            "RaceEth": "Asian", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "19824", 
+            "Geo": "NonMetro", 
+            "Region": "Midwest", 
+            "RaceEth": "Asian", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "14961", 
+            "Geo": "NonMetro", 
+            "Region": "Midwest", 
+            "RaceEth": "Asian", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "11868", 
+            "Geo": "NonMetro", 
+            "Region": "Midwest", 
+            "RaceEth": "Asian", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "9098", 
+            "Geo": "NonMetro", 
+            "Region": "Midwest", 
+            "RaceEth": "Asian", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "6292", 
+            "Geo": "NonMetro", 
+            "Region": "Midwest", 
+            "RaceEth": "Asian", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "46933", 
+            "Geo": "Mixed", 
+            "Region": "Midwest", 
+            "RaceEth": "Asian", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "86132", 
+            "Geo": "Mixed", 
+            "Region": "Midwest", 
+            "RaceEth": "Asian", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "110035", 
+            "Geo": "Mixed", 
+            "Region": "Midwest", 
+            "RaceEth": "Asian", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "113969", 
+            "Geo": "Mixed", 
+            "Region": "Midwest", 
+            "RaceEth": "Asian", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "106801", 
+            "Geo": "Mixed", 
+            "Region": "Midwest", 
+            "RaceEth": "Asian", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "67328", 
+            "Geo": "Mixed", 
+            "Region": "Midwest", 
+            "RaceEth": "Asian", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "49263", 
+            "Geo": "Mixed", 
+            "Region": "Midwest", 
+            "RaceEth": "Asian", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "34257", 
+            "Geo": "Mixed", 
+            "Region": "Midwest", 
+            "RaceEth": "Asian", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "30910", 
+            "Geo": "City", 
+            "Region": "South", 
+            "RaceEth": "Asian", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "52904", 
+            "Geo": "City", 
+            "Region": "South", 
+            "RaceEth": "Asian", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "88055", 
+            "Geo": "City", 
+            "Region": "South", 
+            "RaceEth": "Asian", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "112502", 
+            "Geo": "City", 
+            "Region": "South", 
+            "RaceEth": "Asian", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "84876", 
+            "Geo": "City", 
+            "Region": "South", 
+            "RaceEth": "Asian", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "58337", 
+            "Geo": "City", 
+            "Region": "South", 
+            "RaceEth": "Asian", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "43911", 
+            "Geo": "City", 
+            "Region": "South", 
+            "RaceEth": "Asian", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "36358", 
+            "Geo": "City", 
+            "Region": "South", 
+            "RaceEth": "Asian", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "94595", 
+            "Geo": "Suburb", 
+            "Region": "South", 
+            "RaceEth": "Asian", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "192081", 
+            "Geo": "Suburb", 
+            "Region": "South", 
+            "RaceEth": "Asian", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "157641", 
+            "Geo": "Suburb", 
+            "Region": "South", 
+            "RaceEth": "Asian", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "220669", 
+            "Geo": "Suburb", 
+            "Region": "South", 
+            "RaceEth": "Asian", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "252402", 
+            "Geo": "Suburb", 
+            "Region": "South", 
+            "RaceEth": "Asian", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "198145", 
+            "Geo": "Suburb", 
+            "Region": "South", 
+            "RaceEth": "Asian", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "129778", 
+            "Geo": "Suburb", 
+            "Region": "South", 
+            "RaceEth": "Asian", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "100042", 
+            "Geo": "Suburb", 
+            "Region": "South", 
+            "RaceEth": "Asian", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "9418", 
+            "Geo": "NonMetro", 
+            "Region": "South", 
+            "RaceEth": "Asian", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "20962", 
+            "Geo": "NonMetro", 
+            "Region": "South", 
+            "RaceEth": "Asian", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "27511", 
+            "Geo": "NonMetro", 
+            "Region": "South", 
+            "RaceEth": "Asian", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "23008", 
+            "Geo": "NonMetro", 
+            "Region": "South", 
+            "RaceEth": "Asian", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "24698", 
+            "Geo": "NonMetro", 
+            "Region": "South", 
+            "RaceEth": "Asian", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "19599", 
+            "Geo": "NonMetro", 
+            "Region": "South", 
+            "RaceEth": "Asian", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "13984", 
+            "Geo": "NonMetro", 
+            "Region": "South", 
+            "RaceEth": "Asian", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "11388", 
+            "Geo": "NonMetro", 
+            "Region": "South", 
+            "RaceEth": "Asian", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "83340", 
+            "Geo": "Mixed", 
+            "Region": "South", 
+            "RaceEth": "Asian", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "163569", 
+            "Geo": "Mixed", 
+            "Region": "South", 
+            "RaceEth": "Asian", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "177404", 
+            "Geo": "Mixed", 
+            "Region": "South", 
+            "RaceEth": "Asian", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "218070", 
+            "Geo": "Mixed", 
+            "Region": "South", 
+            "RaceEth": "Asian", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "220121", 
+            "Geo": "Mixed", 
+            "Region": "South", 
+            "RaceEth": "Asian", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "163936", 
+            "Geo": "Mixed", 
+            "Region": "South", 
+            "RaceEth": "Asian", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "112744", 
+            "Geo": "Mixed", 
+            "Region": "South", 
+            "RaceEth": "Asian", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "81484", 
+            "Geo": "Mixed", 
+            "Region": "South", 
+            "RaceEth": "Asian", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "64954", 
+            "Geo": "City", 
+            "Region": "West", 
+            "RaceEth": "Asian", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "130859", 
+            "Geo": "City", 
+            "Region": "West", 
+            "RaceEth": "Asian", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "200552", 
+            "Geo": "City", 
+            "Region": "West", 
+            "RaceEth": "Asian", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "218591", 
+            "Geo": "City", 
+            "Region": "West", 
+            "RaceEth": "Asian", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "189086", 
+            "Geo": "City", 
+            "Region": "West", 
+            "RaceEth": "Asian", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "177213", 
+            "Geo": "City", 
+            "Region": "West", 
+            "RaceEth": "Asian", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "145907", 
+            "Geo": "City", 
+            "Region": "West", 
+            "RaceEth": "Asian", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "160031", 
+            "Geo": "City", 
+            "Region": "West", 
+            "RaceEth": "Asian", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "166915", 
+            "Geo": "Suburb", 
+            "Region": "West", 
+            "RaceEth": "Asian", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "361777", 
+            "Geo": "Suburb", 
+            "Region": "West", 
+            "RaceEth": "Asian", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "367774", 
+            "Geo": "Suburb", 
+            "Region": "West", 
+            "RaceEth": "Asian", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "423441", 
+            "Geo": "Suburb", 
+            "Region": "West", 
+            "RaceEth": "Asian", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "486322", 
+            "Geo": "Suburb", 
+            "Region": "West", 
+            "RaceEth": "Asian", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "458440", 
+            "Geo": "Suburb", 
+            "Region": "West", 
+            "RaceEth": "Asian", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "334888", 
+            "Geo": "Suburb", 
+            "Region": "West", 
+            "RaceEth": "Asian", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "316503", 
+            "Geo": "Suburb", 
+            "Region": "West", 
+            "RaceEth": "Asian", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "11187", 
+            "Geo": "NonMetro", 
+            "Region": "West", 
+            "RaceEth": "Asian", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "26877", 
+            "Geo": "NonMetro", 
+            "Region": "West", 
+            "RaceEth": "Asian", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "35132", 
+            "Geo": "NonMetro", 
+            "Region": "West", 
+            "RaceEth": "Asian", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "32742", 
+            "Geo": "NonMetro", 
+            "Region": "West", 
+            "RaceEth": "Asian", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "35404", 
+            "Geo": "NonMetro", 
+            "Region": "West", 
+            "RaceEth": "Asian", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "38335", 
+            "Geo": "NonMetro", 
+            "Region": "West", 
+            "RaceEth": "Asian", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "30503", 
+            "Geo": "NonMetro", 
+            "Region": "West", 
+            "RaceEth": "Asian", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "35369", 
+            "Geo": "NonMetro", 
+            "Region": "West", 
+            "RaceEth": "Asian", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "145168", 
+            "Geo": "Mixed", 
+            "Region": "West", 
+            "RaceEth": "Asian", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "287541", 
+            "Geo": "Mixed", 
+            "Region": "West", 
+            "RaceEth": "Asian", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "368392", 
+            "Geo": "Mixed", 
+            "Region": "West", 
+            "RaceEth": "Asian", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "419499", 
+            "Geo": "Mixed", 
+            "Region": "West", 
+            "RaceEth": "Asian", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "418510", 
+            "Geo": "Mixed", 
+            "Region": "West", 
+            "RaceEth": "Asian", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "365162", 
+            "Geo": "Mixed", 
+            "Region": "West", 
+            "RaceEth": "Asian", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "275676", 
+            "Geo": "Mixed", 
+            "Region": "West", 
+            "RaceEth": "Asian", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "286332", 
+            "Geo": "Mixed", 
+            "Region": "West", 
+            "RaceEth": "Asian", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "245058", 
+            "Geo": "City", 
+            "Region": "Northeast", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "447165", 
+            "Geo": "City", 
+            "Region": "Northeast", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "516614", 
+            "Geo": "City", 
+            "Region": "Northeast", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "507997", 
+            "Geo": "City", 
+            "Region": "Northeast", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "428784", 
+            "Geo": "City", 
+            "Region": "Northeast", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "353843", 
+            "Geo": "City", 
+            "Region": "Northeast", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "234017", 
+            "Geo": "City", 
+            "Region": "Northeast", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "216215", 
+            "Geo": "City", 
+            "Region": "Northeast", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "215523", 
+            "Geo": "Suburb", 
+            "Region": "Northeast", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "379343", 
+            "Geo": "Suburb", 
+            "Region": "Northeast", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "384849", 
+            "Geo": "Suburb", 
+            "Region": "Northeast", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "397439", 
+            "Geo": "Suburb", 
+            "Region": "Northeast", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "367496", 
+            "Geo": "Suburb", 
+            "Region": "Northeast", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "273673", 
+            "Geo": "Suburb", 
+            "Region": "Northeast", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "145625", 
+            "Geo": "Suburb", 
+            "Region": "Northeast", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "123737", 
+            "Geo": "Suburb", 
+            "Region": "Northeast", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "11914", 
+            "Geo": "NonMetro", 
+            "Region": "Northeast", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "22115", 
+            "Geo": "NonMetro", 
+            "Region": "Northeast", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "25215", 
+            "Geo": "NonMetro", 
+            "Region": "Northeast", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "17614", 
+            "Geo": "NonMetro", 
+            "Region": "Northeast", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "17518", 
+            "Geo": "NonMetro", 
+            "Region": "Northeast", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "13280", 
+            "Geo": "NonMetro", 
+            "Region": "Northeast", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "6968", 
+            "Geo": "NonMetro", 
+            "Region": "Northeast", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "5264", 
+            "Geo": "NonMetro", 
+            "Region": "Northeast", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "105418", 
+            "Geo": "Mixed", 
+            "Region": "Northeast", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "186236", 
+            "Geo": "Mixed", 
+            "Region": "Northeast", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "189158", 
+            "Geo": "Mixed", 
+            "Region": "Northeast", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "163267", 
+            "Geo": "Mixed", 
+            "Region": "Northeast", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "148304", 
+            "Geo": "Mixed", 
+            "Region": "Northeast", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "106238", 
+            "Geo": "Mixed", 
+            "Region": "Northeast", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "58325", 
+            "Geo": "Mixed", 
+            "Region": "Northeast", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "43360", 
+            "Geo": "Mixed", 
+            "Region": "Northeast", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "140731", 
+            "Geo": "City", 
+            "Region": "Midwest", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "235380", 
+            "Geo": "City", 
+            "Region": "Midwest", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "221235", 
+            "Geo": "City", 
+            "Region": "Midwest", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "231888", 
+            "Geo": "City", 
+            "Region": "Midwest", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "181084", 
+            "Geo": "City", 
+            "Region": "Midwest", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "124258", 
+            "Geo": "City", 
+            "Region": "Midwest", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "72230", 
+            "Geo": "City", 
+            "Region": "Midwest", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "55859", 
+            "Geo": "City", 
+            "Region": "Midwest", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "124152", 
+            "Geo": "Suburb", 
+            "Region": "Midwest", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "221218", 
+            "Geo": "Suburb", 
+            "Region": "Midwest", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "174847", 
+            "Geo": "Suburb", 
+            "Region": "Midwest", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "185285", 
+            "Geo": "Suburb", 
+            "Region": "Midwest", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "158099", 
+            "Geo": "Suburb", 
+            "Region": "Midwest", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "102169", 
+            "Geo": "Suburb", 
+            "Region": "Midwest", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "53235", 
+            "Geo": "Suburb", 
+            "Region": "Midwest", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "38936", 
+            "Geo": "Suburb", 
+            "Region": "Midwest", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "69667", 
+            "Geo": "NonMetro", 
+            "Region": "Midwest", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "120890", 
+            "Geo": "NonMetro", 
+            "Region": "Midwest", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "98192", 
+            "Geo": "NonMetro", 
+            "Region": "Midwest", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "91896", 
+            "Geo": "NonMetro", 
+            "Region": "Midwest", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "70996", 
+            "Geo": "NonMetro", 
+            "Region": "Midwest", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "44717", 
+            "Geo": "NonMetro", 
+            "Region": "Midwest", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "23254", 
+            "Geo": "NonMetro", 
+            "Region": "Midwest", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "18405", 
+            "Geo": "NonMetro", 
+            "Region": "Midwest", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "190488", 
+            "Geo": "Mixed", 
+            "Region": "Midwest", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "330771", 
+            "Geo": "Mixed", 
+            "Region": "Midwest", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "276800", 
+            "Geo": "Mixed", 
+            "Region": "Midwest", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "268269", 
+            "Geo": "Mixed", 
+            "Region": "Midwest", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "222239", 
+            "Geo": "Mixed", 
+            "Region": "Midwest", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "135654", 
+            "Geo": "Mixed", 
+            "Region": "Midwest", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "71104", 
+            "Geo": "Mixed", 
+            "Region": "Midwest", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "48488", 
+            "Geo": "Mixed", 
+            "Region": "Midwest", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "328414", 
+            "Geo": "City", 
+            "Region": "South", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "540405", 
+            "Geo": "City", 
+            "Region": "South", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "558149", 
+            "Geo": "City", 
+            "Region": "South", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "568277", 
+            "Geo": "City", 
+            "Region": "South", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "445737", 
+            "Geo": "City", 
+            "Region": "South", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "335297", 
+            "Geo": "City", 
+            "Region": "South", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "208939", 
+            "Geo": "City", 
+            "Region": "South", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "190832", 
+            "Geo": "City", 
+            "Region": "South", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "430651", 
+            "Geo": "Suburb", 
+            "Region": "South", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "765888", 
+            "Geo": "Suburb", 
+            "Region": "South", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "700340", 
+            "Geo": "Suburb", 
+            "Region": "South", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "759027", 
+            "Geo": "Suburb", 
+            "Region": "South", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "719434", 
+            "Geo": "Suburb", 
+            "Region": "South", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "525974", 
+            "Geo": "Suburb", 
+            "Region": "South", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "293803", 
+            "Geo": "Suburb", 
+            "Region": "South", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "289594", 
+            "Geo": "Suburb", 
+            "Region": "South", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "204578", 
+            "Geo": "NonMetro", 
+            "Region": "South", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "339613", 
+            "Geo": "NonMetro", 
+            "Region": "South", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "311488", 
+            "Geo": "NonMetro", 
+            "Region": "South", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "298071", 
+            "Geo": "NonMetro", 
+            "Region": "South", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "242411", 
+            "Geo": "NonMetro", 
+            "Region": "South", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "169972", 
+            "Geo": "NonMetro", 
+            "Region": "South", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "100532", 
+            "Geo": "NonMetro", 
+            "Region": "South", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "92452", 
+            "Geo": "NonMetro", 
+            "Region": "South", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "811270", 
+            "Geo": "Mixed", 
+            "Region": "South", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "1430277", 
+            "Geo": "Mixed", 
+            "Region": "South", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "1331154", 
+            "Geo": "Mixed", 
+            "Region": "South", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "1310968", 
+            "Geo": "Mixed", 
+            "Region": "South", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "1142795", 
+            "Geo": "Mixed", 
+            "Region": "South", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "816422", 
+            "Geo": "Mixed", 
+            "Region": "South", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "489181", 
+            "Geo": "Mixed", 
+            "Region": "South", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "454987", 
+            "Geo": "Mixed", 
+            "Region": "South", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "350258", 
+            "Geo": "City", 
+            "Region": "West", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "632628", 
+            "Geo": "City", 
+            "Region": "West", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "629926", 
+            "Geo": "City", 
+            "Region": "West", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "604814", 
+            "Geo": "City", 
+            "Region": "West", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "508678", 
+            "Geo": "City", 
+            "Region": "West", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "365724", 
+            "Geo": "City", 
+            "Region": "West", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "200958", 
+            "Geo": "City", 
+            "Region": "West", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "158924", 
+            "Geo": "City", 
+            "Region": "West", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "707080", 
+            "Geo": "Suburb", 
+            "Region": "West", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "1363919", 
+            "Geo": "Suburb", 
+            "Region": "West", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "1273524", 
+            "Geo": "Suburb", 
+            "Region": "West", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "1138341", 
+            "Geo": "Suburb", 
+            "Region": "West", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "1053311", 
+            "Geo": "Suburb", 
+            "Region": "West", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "765646", 
+            "Geo": "Suburb", 
+            "Region": "West", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "435057", 
+            "Geo": "Suburb", 
+            "Region": "West", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "371725", 
+            "Geo": "Suburb", 
+            "Region": "West", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "137832", 
+            "Geo": "NonMetro", 
+            "Region": "West", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "253612", 
+            "Geo": "NonMetro", 
+            "Region": "West", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "230441", 
+            "Geo": "NonMetro", 
+            "Region": "West", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "192183", 
+            "Geo": "NonMetro", 
+            "Region": "West", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "175733", 
+            "Geo": "NonMetro", 
+            "Region": "West", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "141256", 
+            "Geo": "NonMetro", 
+            "Region": "West", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "91969", 
+            "Geo": "NonMetro", 
+            "Region": "West", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "83112", 
+            "Geo": "NonMetro", 
+            "Region": "West", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "828321", 
+            "Geo": "Mixed", 
+            "Region": "West", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "1503799", 
+            "Geo": "Mixed", 
+            "Region": "West", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "1427024", 
+            "Geo": "Mixed", 
+            "Region": "West", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "1287582", 
+            "Geo": "Mixed", 
+            "Region": "West", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "1107580", 
+            "Geo": "Mixed", 
+            "Region": "West", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "804755", 
+            "Geo": "Mixed", 
+            "Region": "West", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "465675", 
+            "Geo": "Mixed", 
+            "Region": "West", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "394956", 
+            "Geo": "Mixed", 
+            "Region": "West", 
+            "RaceEth": "Hispanic", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "3004", 
+            "Geo": "City", 
+            "Region": "Northeast", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "6651", 
+            "Geo": "City", 
+            "Region": "Northeast", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "7977", 
+            "Geo": "City", 
+            "Region": "Northeast", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "7853", 
+            "Geo": "City", 
+            "Region": "Northeast", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "6296", 
+            "Geo": "City", 
+            "Region": "Northeast", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "7077", 
+            "Geo": "City", 
+            "Region": "Northeast", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "4298", 
+            "Geo": "City", 
+            "Region": "Northeast", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "3475", 
+            "Geo": "City", 
+            "Region": "Northeast", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "2949", 
+            "Geo": "Suburb", 
+            "Region": "Northeast", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "6394", 
+            "Geo": "Suburb", 
+            "Region": "Northeast", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "8432", 
+            "Geo": "Suburb", 
+            "Region": "Northeast", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "7164", 
+            "Geo": "Suburb", 
+            "Region": "Northeast", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "7634", 
+            "Geo": "Suburb", 
+            "Region": "Northeast", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "7108", 
+            "Geo": "Suburb", 
+            "Region": "Northeast", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "4805", 
+            "Geo": "Suburb", 
+            "Region": "Northeast", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "4105", 
+            "Geo": "Suburb", 
+            "Region": "Northeast", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "927", 
+            "Geo": "NonMetro", 
+            "Region": "Northeast", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "2572", 
+            "Geo": "NonMetro", 
+            "Region": "Northeast", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "2095", 
+            "Geo": "NonMetro", 
+            "Region": "Northeast", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "1990", 
+            "Geo": "NonMetro", 
+            "Region": "Northeast", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "2428", 
+            "Geo": "NonMetro", 
+            "Region": "Northeast", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "2518", 
+            "Geo": "NonMetro", 
+            "Region": "Northeast", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "2027", 
+            "Geo": "NonMetro", 
+            "Region": "Northeast", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "1811", 
+            "Geo": "NonMetro", 
+            "Region": "Northeast", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "1925", 
+            "Geo": "Mixed", 
+            "Region": "Northeast", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "4239", 
+            "Geo": "Mixed", 
+            "Region": "Northeast", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "5675", 
+            "Geo": "Mixed", 
+            "Region": "Northeast", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "4347", 
+            "Geo": "Mixed", 
+            "Region": "Northeast", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "5407", 
+            "Geo": "Mixed", 
+            "Region": "Northeast", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "5180", 
+            "Geo": "Mixed", 
+            "Region": "Northeast", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "3431", 
+            "Geo": "Mixed", 
+            "Region": "Northeast", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "3080", 
+            "Geo": "Mixed", 
+            "Region": "Northeast", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "3464", 
+            "Geo": "City", 
+            "Region": "Midwest", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "6529", 
+            "Geo": "City", 
+            "Region": "Midwest", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "9339", 
+            "Geo": "City", 
+            "Region": "Midwest", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "7620", 
+            "Geo": "City", 
+            "Region": "Midwest", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "6835", 
+            "Geo": "City", 
+            "Region": "Midwest", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "7486", 
+            "Geo": "City", 
+            "Region": "Midwest", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "4591", 
+            "Geo": "City", 
+            "Region": "Midwest", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "2701", 
+            "Geo": "City", 
+            "Region": "Midwest", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "2995", 
+            "Geo": "Suburb", 
+            "Region": "Midwest", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "7521", 
+            "Geo": "Suburb", 
+            "Region": "Midwest", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "7717", 
+            "Geo": "Suburb", 
+            "Region": "Midwest", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "7772", 
+            "Geo": "Suburb", 
+            "Region": "Midwest", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "8053", 
+            "Geo": "Suburb", 
+            "Region": "Midwest", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "7929", 
+            "Geo": "Suburb", 
+            "Region": "Midwest", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "5644", 
+            "Geo": "Suburb", 
+            "Region": "Midwest", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "3346", 
+            "Geo": "Suburb", 
+            "Region": "Midwest", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "14768", 
+            "Geo": "NonMetro", 
+            "Region": "Midwest", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "29182", 
+            "Geo": "NonMetro", 
+            "Region": "Midwest", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "29962", 
+            "Geo": "NonMetro", 
+            "Region": "Midwest", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "20726", 
+            "Geo": "NonMetro", 
+            "Region": "Midwest", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "20882", 
+            "Geo": "NonMetro", 
+            "Region": "Midwest", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "23476", 
+            "Geo": "NonMetro", 
+            "Region": "Midwest", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "13517", 
+            "Geo": "NonMetro", 
+            "Region": "Midwest", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "10852", 
+            "Geo": "NonMetro", 
+            "Region": "Midwest", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "12328", 
+            "Geo": "Mixed", 
+            "Region": "Midwest", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "23243", 
+            "Geo": "Mixed", 
+            "Region": "Midwest", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "24896", 
+            "Geo": "Mixed", 
+            "Region": "Midwest", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "20542", 
+            "Geo": "Mixed", 
+            "Region": "Midwest", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "20703", 
+            "Geo": "Mixed", 
+            "Region": "Midwest", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "19351", 
+            "Geo": "Mixed", 
+            "Region": "Midwest", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "11951", 
+            "Geo": "Mixed", 
+            "Region": "Midwest", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "7786", 
+            "Geo": "Mixed", 
+            "Region": "Midwest", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "5381", 
+            "Geo": "City", 
+            "Region": "South", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "11316", 
+            "Geo": "City", 
+            "Region": "South", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "14356", 
+            "Geo": "City", 
+            "Region": "South", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "12898", 
+            "Geo": "City", 
+            "Region": "South", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "11934", 
+            "Geo": "City", 
+            "Region": "South", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "11976", 
+            "Geo": "City", 
+            "Region": "South", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "9306", 
+            "Geo": "City", 
+            "Region": "South", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "5617", 
+            "Geo": "City", 
+            "Region": "South", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "9426", 
+            "Geo": "Suburb", 
+            "Region": "South", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "20737", 
+            "Geo": "Suburb", 
+            "Region": "South", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "20350", 
+            "Geo": "Suburb", 
+            "Region": "South", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "18944", 
+            "Geo": "Suburb", 
+            "Region": "South", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "20069", 
+            "Geo": "Suburb", 
+            "Region": "South", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "18598", 
+            "Geo": "Suburb", 
+            "Region": "South", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "13591", 
+            "Geo": "Suburb", 
+            "Region": "South", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "9081", 
+            "Geo": "Suburb", 
+            "Region": "South", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "16822", 
+            "Geo": "NonMetro", 
+            "Region": "South", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "36549", 
+            "Geo": "NonMetro", 
+            "Region": "South", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "37383", 
+            "Geo": "NonMetro", 
+            "Region": "South", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "28720", 
+            "Geo": "NonMetro", 
+            "Region": "South", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "32160", 
+            "Geo": "NonMetro", 
+            "Region": "South", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "33130", 
+            "Geo": "NonMetro", 
+            "Region": "South", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "25327", 
+            "Geo": "NonMetro", 
+            "Region": "South", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "20555", 
+            "Geo": "NonMetro", 
+            "Region": "South", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "20257", 
+            "Geo": "Mixed", 
+            "Region": "South", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "48472", 
+            "Geo": "Mixed", 
+            "Region": "South", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "51562", 
+            "Geo": "Mixed", 
+            "Region": "South", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "41732", 
+            "Geo": "Mixed", 
+            "Region": "South", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "44296", 
+            "Geo": "Mixed", 
+            "Region": "South", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "44452", 
+            "Geo": "Mixed", 
+            "Region": "South", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "29751", 
+            "Geo": "Mixed", 
+            "Region": "South", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "21016", 
+            "Geo": "Mixed", 
+            "Region": "South", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "5854", 
+            "Geo": "City", 
+            "Region": "West", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "13119", 
+            "Geo": "City", 
+            "Region": "West", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "16720", 
+            "Geo": "City", 
+            "Region": "West", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "15666", 
+            "Geo": "City", 
+            "Region": "West", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "15452", 
+            "Geo": "City", 
+            "Region": "West", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "13781", 
+            "Geo": "City", 
+            "Region": "West", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "10020", 
+            "Geo": "City", 
+            "Region": "West", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "6454", 
+            "Geo": "City", 
+            "Region": "West", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "12979", 
+            "Geo": "Suburb", 
+            "Region": "West", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "28856", 
+            "Geo": "Suburb", 
+            "Region": "West", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "32112", 
+            "Geo": "Suburb", 
+            "Region": "West", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "25219", 
+            "Geo": "Suburb", 
+            "Region": "West", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "29586", 
+            "Geo": "Suburb", 
+            "Region": "West", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "28647", 
+            "Geo": "Suburb", 
+            "Region": "West", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "19398", 
+            "Geo": "Suburb", 
+            "Region": "West", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "13527", 
+            "Geo": "Suburb", 
+            "Region": "West", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "42639", 
+            "Geo": "NonMetro", 
+            "Region": "West", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "84727", 
+            "Geo": "NonMetro", 
+            "Region": "West", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "86379", 
+            "Geo": "NonMetro", 
+            "Region": "West", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "57636", 
+            "Geo": "NonMetro", 
+            "Region": "West", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "58114", 
+            "Geo": "NonMetro", 
+            "Region": "West", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "60843", 
+            "Geo": "NonMetro", 
+            "Region": "West", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "43856", 
+            "Geo": "NonMetro", 
+            "Region": "West", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "37268", 
+            "Geo": "NonMetro", 
+            "Region": "West", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "38493", 
+            "Geo": "Mixed", 
+            "Region": "West", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "74966", 
+            "Geo": "Mixed", 
+            "Region": "West", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "84780", 
+            "Geo": "Mixed", 
+            "Region": "West", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "71814", 
+            "Geo": "Mixed", 
+            "Region": "West", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "65792", 
+            "Geo": "Mixed", 
+            "Region": "West", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "57220", 
+            "Geo": "Mixed", 
+            "Region": "West", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "37686", 
+            "Geo": "Mixed", 
+            "Region": "West", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "28741", 
+            "Geo": "Mixed", 
+            "Region": "West", 
+            "RaceEth": "AmIndian", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "6411", 
+            "Geo": "City", 
+            "Region": "Northeast", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "13339", 
+            "Geo": "City", 
+            "Region": "Northeast", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "15426", 
+            "Geo": "City", 
+            "Region": "Northeast", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "15941", 
+            "Geo": "City", 
+            "Region": "Northeast", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "15619", 
+            "Geo": "City", 
+            "Region": "Northeast", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "12502", 
+            "Geo": "City", 
+            "Region": "Northeast", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "7849", 
+            "Geo": "City", 
+            "Region": "Northeast", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "6335", 
+            "Geo": "City", 
+            "Region": "Northeast", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "7332", 
+            "Geo": "Suburb", 
+            "Region": "Northeast", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "12617", 
+            "Geo": "Suburb", 
+            "Region": "Northeast", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "9929", 
+            "Geo": "Suburb", 
+            "Region": "Northeast", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "13908", 
+            "Geo": "Suburb", 
+            "Region": "Northeast", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "11418", 
+            "Geo": "Suburb", 
+            "Region": "Northeast", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "6737", 
+            "Geo": "Suburb", 
+            "Region": "Northeast", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "3804", 
+            "Geo": "Suburb", 
+            "Region": "Northeast", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "3322", 
+            "Geo": "Suburb", 
+            "Region": "Northeast", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "334", 
+            "Geo": "NonMetro", 
+            "Region": "Northeast", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "1011", 
+            "Geo": "NonMetro", 
+            "Region": "Northeast", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "822", 
+            "Geo": "NonMetro", 
+            "Region": "Northeast", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "378", 
+            "Geo": "NonMetro", 
+            "Region": "Northeast", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "335", 
+            "Geo": "NonMetro", 
+            "Region": "Northeast", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "694", 
+            "Geo": "NonMetro", 
+            "Region": "Northeast", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "127", 
+            "Geo": "NonMetro", 
+            "Region": "Northeast", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "232", 
+            "Geo": "NonMetro", 
+            "Region": "Northeast", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "3946", 
+            "Geo": "Mixed", 
+            "Region": "Northeast", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "6063", 
+            "Geo": "Mixed", 
+            "Region": "Northeast", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "6511", 
+            "Geo": "Mixed", 
+            "Region": "Northeast", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "6356", 
+            "Geo": "Mixed", 
+            "Region": "Northeast", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "6200", 
+            "Geo": "Mixed", 
+            "Region": "Northeast", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "4839", 
+            "Geo": "Mixed", 
+            "Region": "Northeast", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "2472", 
+            "Geo": "Mixed", 
+            "Region": "Northeast", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "2352", 
+            "Geo": "Mixed", 
+            "Region": "Northeast", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "2393", 
+            "Geo": "City", 
+            "Region": "Midwest", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "2874", 
+            "Geo": "City", 
+            "Region": "Midwest", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "3537", 
+            "Geo": "City", 
+            "Region": "Midwest", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "2542", 
+            "Geo": "City", 
+            "Region": "Midwest", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "2534", 
+            "Geo": "City", 
+            "Region": "Midwest", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "1972", 
+            "Geo": "City", 
+            "Region": "Midwest", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "950", 
+            "Geo": "City", 
+            "Region": "Midwest", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "713", 
+            "Geo": "City", 
+            "Region": "Midwest", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "2912", 
+            "Geo": "Suburb", 
+            "Region": "Midwest", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "6876", 
+            "Geo": "Suburb", 
+            "Region": "Midwest", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "3845", 
+            "Geo": "Suburb", 
+            "Region": "Midwest", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "4222", 
+            "Geo": "Suburb", 
+            "Region": "Midwest", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "3662", 
+            "Geo": "Suburb", 
+            "Region": "Midwest", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "2404", 
+            "Geo": "Suburb", 
+            "Region": "Midwest", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "1806", 
+            "Geo": "Suburb", 
+            "Region": "Midwest", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "870", 
+            "Geo": "Suburb", 
+            "Region": "Midwest", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "1594", 
+            "Geo": "NonMetro", 
+            "Region": "Midwest", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "2048", 
+            "Geo": "NonMetro", 
+            "Region": "Midwest", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "1435", 
+            "Geo": "NonMetro", 
+            "Region": "Midwest", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "1263", 
+            "Geo": "NonMetro", 
+            "Region": "Midwest", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "1106", 
+            "Geo": "NonMetro", 
+            "Region": "Midwest", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "872", 
+            "Geo": "NonMetro", 
+            "Region": "Midwest", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "501", 
+            "Geo": "NonMetro", 
+            "Region": "Midwest", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "172", 
+            "Geo": "NonMetro", 
+            "Region": "Midwest", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "4229", 
+            "Geo": "Mixed", 
+            "Region": "Midwest", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "6670", 
+            "Geo": "Mixed", 
+            "Region": "Midwest", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "5435", 
+            "Geo": "Mixed", 
+            "Region": "Midwest", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "5348", 
+            "Geo": "Mixed", 
+            "Region": "Midwest", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "4020", 
+            "Geo": "Mixed", 
+            "Region": "Midwest", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "2586", 
+            "Geo": "Mixed", 
+            "Region": "Midwest", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "1616", 
+            "Geo": "Mixed", 
+            "Region": "Midwest", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "1673", 
+            "Geo": "Mixed", 
+            "Region": "Midwest", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "2915", 
+            "Geo": "City", 
+            "Region": "South", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "4935", 
+            "Geo": "City", 
+            "Region": "South", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "4226", 
+            "Geo": "City", 
+            "Region": "South", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "5415", 
+            "Geo": "City", 
+            "Region": "South", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "3978", 
+            "Geo": "City", 
+            "Region": "South", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "2002", 
+            "Geo": "City", 
+            "Region": "South", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "2123", 
+            "Geo": "City", 
+            "Region": "South", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "1200", 
+            "Geo": "City", 
+            "Region": "South", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "7939", 
+            "Geo": "Suburb", 
+            "Region": "South", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "15317", 
+            "Geo": "Suburb", 
+            "Region": "South", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "12013", 
+            "Geo": "Suburb", 
+            "Region": "South", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "10911", 
+            "Geo": "Suburb", 
+            "Region": "South", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "9981", 
+            "Geo": "Suburb", 
+            "Region": "South", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "8833", 
+            "Geo": "Suburb", 
+            "Region": "South", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "5575", 
+            "Geo": "Suburb", 
+            "Region": "South", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "3033", 
+            "Geo": "Suburb", 
+            "Region": "South", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "2177", 
+            "Geo": "NonMetro", 
+            "Region": "South", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "4723", 
+            "Geo": "NonMetro", 
+            "Region": "South", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "3487", 
+            "Geo": "NonMetro", 
+            "Region": "South", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "3444", 
+            "Geo": "NonMetro", 
+            "Region": "South", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "2789", 
+            "Geo": "NonMetro", 
+            "Region": "South", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "1944", 
+            "Geo": "NonMetro", 
+            "Region": "South", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "1424", 
+            "Geo": "NonMetro", 
+            "Region": "South", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "975", 
+            "Geo": "NonMetro", 
+            "Region": "South", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "9628", 
+            "Geo": "Mixed", 
+            "Region": "South", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "15882", 
+            "Geo": "Mixed", 
+            "Region": "South", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "15947", 
+            "Geo": "Mixed", 
+            "Region": "South", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "14487", 
+            "Geo": "Mixed", 
+            "Region": "South", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "10624", 
+            "Geo": "Mixed", 
+            "Region": "South", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "8018", 
+            "Geo": "Mixed", 
+            "Region": "South", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "4541", 
+            "Geo": "Mixed", 
+            "Region": "South", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "2491", 
+            "Geo": "Mixed", 
+            "Region": "South", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "2769", 
+            "Geo": "City", 
+            "Region": "West", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "3652", 
+            "Geo": "City", 
+            "Region": "West", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "4422", 
+            "Geo": "City", 
+            "Region": "West", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "4626", 
+            "Geo": "City", 
+            "Region": "West", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "4732", 
+            "Geo": "City", 
+            "Region": "West", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "3160", 
+            "Geo": "City", 
+            "Region": "West", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "1651", 
+            "Geo": "City", 
+            "Region": "West", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "1512", 
+            "Geo": "City", 
+            "Region": "West", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "4600", 
+            "Geo": "Suburb", 
+            "Region": "West", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "8595", 
+            "Geo": "Suburb", 
+            "Region": "West", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "9198", 
+            "Geo": "Suburb", 
+            "Region": "West", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "9520", 
+            "Geo": "Suburb", 
+            "Region": "West", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "8524", 
+            "Geo": "Suburb", 
+            "Region": "West", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "7892", 
+            "Geo": "Suburb", 
+            "Region": "West", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "4657", 
+            "Geo": "Suburb", 
+            "Region": "West", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "2925", 
+            "Geo": "Suburb", 
+            "Region": "West", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "523", 
+            "Geo": "NonMetro", 
+            "Region": "West", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "1917", 
+            "Geo": "NonMetro", 
+            "Region": "West", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "1155", 
+            "Geo": "NonMetro", 
+            "Region": "West", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "943", 
+            "Geo": "NonMetro", 
+            "Region": "West", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "1292", 
+            "Geo": "NonMetro", 
+            "Region": "West", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "1311", 
+            "Geo": "NonMetro", 
+            "Region": "West", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "833", 
+            "Geo": "NonMetro", 
+            "Region": "West", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "326", 
+            "Geo": "NonMetro", 
+            "Region": "West", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "4648", 
+            "Geo": "Mixed", 
+            "Region": "West", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "9541", 
+            "Geo": "Mixed", 
+            "Region": "West", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "10358", 
+            "Geo": "Mixed", 
+            "Region": "West", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "8326", 
+            "Geo": "Mixed", 
+            "Region": "West", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "8106", 
+            "Geo": "Mixed", 
+            "Region": "West", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "7407", 
+            "Geo": "Mixed", 
+            "Region": "West", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "4344", 
+            "Geo": "Mixed", 
+            "Region": "West", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "2792", 
+            "Geo": "Mixed", 
+            "Region": "West", 
+            "RaceEth": "NHOther", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "28273", 
+            "Geo": "City", 
+            "Region": "Northeast", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "38788", 
+            "Geo": "City", 
+            "Region": "Northeast", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "37105", 
+            "Geo": "City", 
+            "Region": "Northeast", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "33534", 
+            "Geo": "City", 
+            "Region": "Northeast", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "23558", 
+            "Geo": "City", 
+            "Region": "Northeast", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "19105", 
+            "Geo": "City", 
+            "Region": "Northeast", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "12892", 
+            "Geo": "City", 
+            "Region": "Northeast", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "11049", 
+            "Geo": "City", 
+            "Region": "Northeast", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "53135", 
+            "Geo": "Suburb", 
+            "Region": "Northeast", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "86763", 
+            "Geo": "Suburb", 
+            "Region": "Northeast", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "55059", 
+            "Geo": "Suburb", 
+            "Region": "Northeast", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "31494", 
+            "Geo": "Suburb", 
+            "Region": "Northeast", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "27771", 
+            "Geo": "Suburb", 
+            "Region": "Northeast", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "25997", 
+            "Geo": "Suburb", 
+            "Region": "Northeast", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "19040", 
+            "Geo": "Suburb", 
+            "Region": "Northeast", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "15083", 
+            "Geo": "Suburb", 
+            "Region": "Northeast", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "7009", 
+            "Geo": "NonMetro", 
+            "Region": "Northeast", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "14715", 
+            "Geo": "NonMetro", 
+            "Region": "Northeast", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "12449", 
+            "Geo": "NonMetro", 
+            "Region": "Northeast", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "5135", 
+            "Geo": "NonMetro", 
+            "Region": "Northeast", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "5729", 
+            "Geo": "NonMetro", 
+            "Region": "Northeast", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "5135", 
+            "Geo": "NonMetro", 
+            "Region": "Northeast", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "3952", 
+            "Geo": "NonMetro", 
+            "Region": "Northeast", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "2906", 
+            "Geo": "NonMetro", 
+            "Region": "Northeast", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "34799", 
+            "Geo": "Mixed", 
+            "Region": "Northeast", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "54446", 
+            "Geo": "Mixed", 
+            "Region": "Northeast", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "37914", 
+            "Geo": "Mixed", 
+            "Region": "Northeast", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "21907", 
+            "Geo": "Mixed", 
+            "Region": "Northeast", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "19473", 
+            "Geo": "Mixed", 
+            "Region": "Northeast", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "16601", 
+            "Geo": "Mixed", 
+            "Region": "Northeast", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "9861", 
+            "Geo": "Mixed", 
+            "Region": "Northeast", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "7381", 
+            "Geo": "Mixed", 
+            "Region": "Northeast", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "34048", 
+            "Geo": "City", 
+            "Region": "Midwest", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "47753", 
+            "Geo": "City", 
+            "Region": "Midwest", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "34972", 
+            "Geo": "City", 
+            "Region": "Midwest", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "24541", 
+            "Geo": "City", 
+            "Region": "Midwest", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "15943", 
+            "Geo": "City", 
+            "Region": "Midwest", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "10224", 
+            "Geo": "City", 
+            "Region": "Midwest", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "6525", 
+            "Geo": "City", 
+            "Region": "Midwest", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "6158", 
+            "Geo": "City", 
+            "Region": "Midwest", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "54557", 
+            "Geo": "Suburb", 
+            "Region": "Midwest", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "92226", 
+            "Geo": "Suburb", 
+            "Region": "Midwest", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "53037", 
+            "Geo": "Suburb", 
+            "Region": "Midwest", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "31259", 
+            "Geo": "Suburb", 
+            "Region": "Midwest", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "29193", 
+            "Geo": "Suburb", 
+            "Region": "Midwest", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "21975", 
+            "Geo": "Suburb", 
+            "Region": "Midwest", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "13656", 
+            "Geo": "Suburb", 
+            "Region": "Midwest", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "11669", 
+            "Geo": "Suburb", 
+            "Region": "Midwest", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "32264", 
+            "Geo": "NonMetro", 
+            "Region": "Midwest", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "50513", 
+            "Geo": "NonMetro", 
+            "Region": "Midwest", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "37393", 
+            "Geo": "NonMetro", 
+            "Region": "Midwest", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "21602", 
+            "Geo": "NonMetro", 
+            "Region": "Midwest", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "19211", 
+            "Geo": "NonMetro", 
+            "Region": "Midwest", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "19749", 
+            "Geo": "NonMetro", 
+            "Region": "Midwest", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "13471", 
+            "Geo": "NonMetro", 
+            "Region": "Midwest", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "12631", 
+            "Geo": "NonMetro", 
+            "Region": "Midwest", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "76412", 
+            "Geo": "Mixed", 
+            "Region": "Midwest", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "127780", 
+            "Geo": "Mixed", 
+            "Region": "Midwest", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "82280", 
+            "Geo": "Mixed", 
+            "Region": "Midwest", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "44048", 
+            "Geo": "Mixed", 
+            "Region": "Midwest", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "36591", 
+            "Geo": "Mixed", 
+            "Region": "Midwest", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "29632", 
+            "Geo": "Mixed", 
+            "Region": "Midwest", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "21382", 
+            "Geo": "Mixed", 
+            "Region": "Midwest", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "16013", 
+            "Geo": "Mixed", 
+            "Region": "Midwest", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "40473", 
+            "Geo": "City", 
+            "Region": "South", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "55141", 
+            "Geo": "City", 
+            "Region": "South", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "48479", 
+            "Geo": "City", 
+            "Region": "South", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "35599", 
+            "Geo": "City", 
+            "Region": "South", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "24368", 
+            "Geo": "City", 
+            "Region": "South", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "21721", 
+            "Geo": "City", 
+            "Region": "South", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "12809", 
+            "Geo": "City", 
+            "Region": "South", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "11146", 
+            "Geo": "City", 
+            "Region": "South", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "87154", 
+            "Geo": "Suburb", 
+            "Region": "South", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "138628", 
+            "Geo": "Suburb", 
+            "Region": "South", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "85654", 
+            "Geo": "Suburb", 
+            "Region": "South", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "56212", 
+            "Geo": "Suburb", 
+            "Region": "South", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "49190", 
+            "Geo": "Suburb", 
+            "Region": "South", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "42948", 
+            "Geo": "Suburb", 
+            "Region": "South", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "28083", 
+            "Geo": "Suburb", 
+            "Region": "South", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "21888", 
+            "Geo": "Suburb", 
+            "Region": "South", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "50104", 
+            "Geo": "NonMetro", 
+            "Region": "South", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "76229", 
+            "Geo": "NonMetro", 
+            "Region": "South", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "48520", 
+            "Geo": "NonMetro", 
+            "Region": "South", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "30528", 
+            "Geo": "NonMetro", 
+            "Region": "South", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "24220", 
+            "Geo": "NonMetro", 
+            "Region": "South", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "29042", 
+            "Geo": "NonMetro", 
+            "Region": "South", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "22321", 
+            "Geo": "NonMetro", 
+            "Region": "South", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "24044", 
+            "Geo": "NonMetro", 
+            "Region": "South", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "123858", 
+            "Geo": "Mixed", 
+            "Region": "South", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "191860", 
+            "Geo": "Mixed", 
+            "Region": "South", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "138168", 
+            "Geo": "Mixed", 
+            "Region": "South", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "88513", 
+            "Geo": "Mixed", 
+            "Region": "South", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "69373", 
+            "Geo": "Mixed", 
+            "Region": "South", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "69152", 
+            "Geo": "Mixed", 
+            "Region": "South", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "46906", 
+            "Geo": "Mixed", 
+            "Region": "South", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "40307", 
+            "Geo": "Mixed", 
+            "Region": "South", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "39668", 
+            "Geo": "City", 
+            "Region": "West", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "57383", 
+            "Geo": "City", 
+            "Region": "West", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "53001", 
+            "Geo": "City", 
+            "Region": "West", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "41522", 
+            "Geo": "City", 
+            "Region": "West", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "30641", 
+            "Geo": "City", 
+            "Region": "West", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "23403", 
+            "Geo": "City", 
+            "Region": "West", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "14091", 
+            "Geo": "City", 
+            "Region": "West", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "11838", 
+            "Geo": "City", 
+            "Region": "West", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "97867", 
+            "Geo": "Suburb", 
+            "Region": "West", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "174341", 
+            "Geo": "Suburb", 
+            "Region": "West", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "123501", 
+            "Geo": "Suburb", 
+            "Region": "West", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "84645", 
+            "Geo": "Suburb", 
+            "Region": "West", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "75349", 
+            "Geo": "Suburb", 
+            "Region": "West", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "58465", 
+            "Geo": "Suburb", 
+            "Region": "West", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "38411", 
+            "Geo": "Suburb", 
+            "Region": "West", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "29005", 
+            "Geo": "Suburb", 
+            "Region": "West", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "28289", 
+            "Geo": "NonMetro", 
+            "Region": "West", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "56781", 
+            "Geo": "NonMetro", 
+            "Region": "West", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "44383", 
+            "Geo": "NonMetro", 
+            "Region": "West", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "29782", 
+            "Geo": "NonMetro", 
+            "Region": "West", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "25769", 
+            "Geo": "NonMetro", 
+            "Region": "West", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "27962", 
+            "Geo": "NonMetro", 
+            "Region": "West", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "20332", 
+            "Geo": "NonMetro", 
+            "Region": "West", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "16005", 
+            "Geo": "NonMetro", 
+            "Region": "West", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "65+"
+        }, 
+        {
+            "Dep": "107116", 
+            "Geo": "Mixed", 
+            "Region": "West", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "0-4"
+        }, 
+        {
+            "Dep": "185751", 
+            "Geo": "Mixed", 
+            "Region": "West", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "5-14"
+        }, 
+        {
+            "Dep": "145355", 
+            "Geo": "Mixed", 
+            "Region": "West", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "15-24"
+        }, 
+        {
+            "Dep": "99066", 
+            "Geo": "Mixed", 
+            "Region": "West", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "25-34"
+        }, 
+        {
+            "Dep": "72937", 
+            "Geo": "Mixed", 
+            "Region": "West", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "35-44"
+        }, 
+        {
+            "Dep": "67286", 
+            "Geo": "Mixed", 
+            "Region": "West", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "45-54"
+        }, 
+        {
+            "Dep": "42836", 
+            "Geo": "Mixed", 
+            "Region": "West", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "55-64"
+        }, 
+        {
+            "Dep": "35919", 
+            "Geo": "Mixed", 
+            "Region": "West", 
+            "RaceEth": "NHMulti", 
+            "AgeAll": "65+"
+        }
+    ]
+}

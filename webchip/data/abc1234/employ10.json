@@ -1,0 +1,6789 @@
+{
+    "title": "Title",
+    "numOfVars": 5,
+    "varNames": [
+        "Hispanic",
+        "IMM",
+        "Sex",
+        "AgeEduc",
+        "EducAll"
+    ],
+    "numCats": [
+        6,
+        2,
+        2,
+        5,
+        7
+    ],
+    "varCats": [
+        {
+            "name": "Hispanic",
+            "cats": [
+                "Mexican",
+                "Puerto Rican",
+                "Cuban",
+                "Central American",
+                "South American",
+                "Other"
+            ]
+        },
+        {
+            "name": "IMM",
+            "cats": [
+                "Native",
+                "Foreign Born"
+            ]
+        },
+        {
+            "name": "Sex",
+            "cats": [
+                "Male",
+                "Female"
+            ]
+        },
+        {
+            "name": "AgeEduc",
+            "cats": [
+                "25-34",
+                "35-44",
+                "45-54",
+                "55-64",
+                "65+"
+            ]
+        },
+        {
+            "name": "EducAll",
+            "cats": [
+                "0-9 Years",
+                "10-12 Years",
+                "HSGrad",
+                "SomeColl",
+                "Collgrad",
+                "Master",
+                "PhD-Prof"
+            ]
+        }
+    ],
+    "theData": [
+        {
+            "Dep": "88910",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "180989",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "581949",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "575525",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "194502",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "34269",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "10393",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "84362",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "114261",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "359069",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "350861",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "124588",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "37156",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "12621",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "67025",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "79704",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "248397",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "216887",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "78002",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "24939",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "10236",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "58740",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "53789",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "166884",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "162398",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "49180",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "18030",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "8853",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "106920",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "43012",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "115958",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "111389",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "33606",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "16200",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "7889",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "69580",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "125543",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "447701",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "651505",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "247525",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "59901",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "12866",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "68682",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "84644",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "284892",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "390659",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "156161",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "60829",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "13653",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "61043",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "66649",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "228261",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "259312",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "89770",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "35370",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "8802",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "66120",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "54639",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "183941",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "179528",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "51256",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "24507",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "5807",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "152393",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "59744",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "168054",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "108540",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "24536",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "15811",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "3643",
+            "Hispanic": "Mexican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "453046",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "173783",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "433080",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "189139",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "57907",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "11480",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "4035",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "682705",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "179937",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "430659",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "179293",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "61381",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "18478",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "6802",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "596622",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "129545",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "296039",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "150327",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "53176",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "14329",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "6592",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "392126",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "52121",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "120151",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "73813",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "29091",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "7474",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "4717",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "308120",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "27795",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "52397",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "32937",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "11858",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "4806",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "3980",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "318740",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "125397",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "344479",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "190381",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "70434",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "12450",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "4267",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "605029",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "150308",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "374664",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "183145",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "77543",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "18507",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "7409",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "524219",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "100344",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "261419",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "151244",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "60044",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "13692",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "5616",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "375835",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "45364",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "114543",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "73537",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "24382",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "6901",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "3820",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "385709",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "31811",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "69234",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "36546",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "12136",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "3918",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "2410",
+            "Hispanic": "Mexican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "26442",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "38482",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "141945",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "136150",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "51545",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "12370",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "4563",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "28326",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "33320",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "116747",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "110224",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "42856",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "15215",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "5643",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "29921",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "31740",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "101530",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "85902",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "32664",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "13803",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "5363",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "32841",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "22054",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "66194",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "55063",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "20155",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "9346",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "5202",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "59914",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "20689",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "50167",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "31431",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "12275",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "5842",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "3206",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "18853",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "35693",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "100826",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "152837",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "67025",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "20475",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "5496",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "20641",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "27942",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "92515",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "130970",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "57430",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "26421",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "7223",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "24697",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "26402",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "85861",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "109141",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "43621",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "19820",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "4637",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "32425",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "19593",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "69729",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "70450",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "26718",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "12765",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "4616",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "85758",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "25479",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "68876",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "41513",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "13569",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "8596",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "2512",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "1626",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "948",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "2834",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "1988",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "849",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "121",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "135",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "2846",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "729",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "3190",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "2009",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "1473",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "227",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "164",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "2113",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "1017",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "2373",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "1814",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "1060",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "357",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "184",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "1456",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "886",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "1269",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "1350",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "618",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "91",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "67",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "2449",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "576",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "1482",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "1220",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "417",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "133",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "126",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "1106",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "372",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "2335",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "2029",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "963",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "262",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "171",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "1729",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "768",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "2884",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "1499",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "873",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "368",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "280",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "1448",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "538",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "1959",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "1806",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "978",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "291",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "99",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "1568",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "595",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "2030",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "1460",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "499",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "181",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "104",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "3152",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "778",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "2180",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "1279",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "491",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "170",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "157",
+            "Hispanic": "Puerto Rican",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "2277",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "4080",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "19797",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "29859",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "17919",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "5517",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "2641",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "1842",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "3338",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "11321",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "18775",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "12874",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "5685",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "2802",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "1701",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "2218",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "8819",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "14235",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "9610",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "4132",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "3156",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "1341",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "894",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "4153",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "5073",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "3272",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "1563",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "1219",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "2128",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "716",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "3898",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "3686",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "2122",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "931",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "597",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "1735",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "2415",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "12857",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "26364",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "22821",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "8792",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "3767",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "1451",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "1157",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "7864",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "17208",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "13470",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "8007",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "2900",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "1178",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "1147",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "7851",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "13691",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "9380",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "5809",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "2361",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "664",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "733",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "4386",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "5661",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "3794",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "1750",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "751",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "2343",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "1377",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "4997",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "3538",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "1824",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "1061",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "371",
+            "Hispanic": "Cuban",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "3623",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "4946",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "27691",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "18107",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "10463",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "1610",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "1631",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "9270",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "9167",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "42410",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "20179",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "11999",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "3111",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "2788",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "13453",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "11418",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "51213",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "26695",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "21737",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "4852",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "5014",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "15059",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "8091",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "30799",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "21604",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "16965",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "5828",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "5019",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "44087",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "12980",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "33170",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "21122",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "15766",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "5240",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "6180",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "2740",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "3064",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "24764",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "19398",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "11017",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "2289",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "1820",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "4988",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "5135",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "32059",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "21221",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "14715",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "4089",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "2582",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "10000",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "7026",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "39580",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "27942",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "23288",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "5933",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "3843",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "13975",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "7402",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "32302",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "24371",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "15137",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "5443",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "3497",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "67900",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "16374",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "50073",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "26909",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "20257",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "5377",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "4079",
+            "Hispanic": "Cuban",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "11270",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "15497",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "55222",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "78730",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "35365",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "7119",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "2116",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "7096",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "5805",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "21934",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "28263",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "15823",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "5155",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "1673",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "3887",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "2196",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "9422",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "12598",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "6785",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "2951",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "1176",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "2655",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "1369",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "3332",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "4887",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "2299",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "1287",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "700",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "2705",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "603",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "2565",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "2397",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "1249",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "401",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "419",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "6100",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "9780",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "38392",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "79342",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "45395",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "12495",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "2666",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "4691",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "3754",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "16695",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "29611",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "19647",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "8259",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "2238",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "3118",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "2693",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "7543",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "13911",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "8207",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "4397",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "1464",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "3227",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "838",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "4037",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "6092",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "3316",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "1478",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "638",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "4884",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "1040",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "4364",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "3665",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "1471",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "662",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "193",
+            "Hispanic": "Central American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "172721",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "49140",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "142424",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "85729",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "29725",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "5796",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "2331",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "200305",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "47510",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "132445",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "81132",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "32031",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "8215",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "4196",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "135367",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "34293",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "96161",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "63269",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "27671",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "8235",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "3616",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "79726",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "18324",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "54108",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "39220",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "18409",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "5599",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "3876",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "63772",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "9788",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "24533",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "17028",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "7970",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "2786",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "3387",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "112999",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "36599",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "111014",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "90600",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "37404",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "8157",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "3471",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "150143",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "41949",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "119508",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "91951",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "43878",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "12249",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "4778",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "124134",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "34045",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "108266",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "78174",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "37083",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "9860",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "4224",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "105309",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "20444",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "67579",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "49128",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "20967",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "5902",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "2647",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "120748",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "15149",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "44005",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "24577",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "11322",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "3396",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "2062",
+            "Hispanic": "Central American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "3448",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "3265",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "17535",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "35786",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "26155",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "6231",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "2567",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "2033",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "1669",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "10133",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "19113",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "16862",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "6409",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "3705",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "1639",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "1107",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "5200",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "9705",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "7641",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "4248",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "2573",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "644",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "412",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "2328",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "3559",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "2907",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "1325",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "1134",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "1229",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "479",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "1926",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "2024",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "1455",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "822",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "613",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "1925",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "1764",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "13390",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "31120",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "31198",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "9965",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "3427",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "2213",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "1303",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "8140",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "17400",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "18111",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "8706",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "3666",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "1310",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "1201",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "5693",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "9049",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "9488",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "5362",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "1930",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "1140",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "1087",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "2989",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "4105",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "2764",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "1297",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "702",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "2431",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "979",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "3447",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "2551",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "1057",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "1024",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "474",
+            "Hispanic": "South American",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "13887",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "7730",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "43743",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "49399",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "34650",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "11711",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "4888",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "18737",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "10792",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "55933",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "52020",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "40243",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "18326",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "8835",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "17425",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "10200",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "57201",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "57646",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "39086",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "16975",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "9717",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "14668",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "7783",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "41378",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "38101",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "25141",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "11403",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "7890",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "21392",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "9365",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "32080",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "26348",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "16648",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "6614",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "8664",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "8715",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "6280",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "36446",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "55201",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "47025",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "15387",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "5732",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "15705",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "8933",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "53511",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "68174",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "61328",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "21827",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "9698",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "16989",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "10460",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "63242",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "70008",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "52239",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "18343",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "9822",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "18418",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "10465",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "57100",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "51718",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "30197",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "10446",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "5975",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "44028",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "16048",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "55551",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "34352",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "19091",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "5741",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "4192",
+            "Hispanic": "South American",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "9103",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "13253",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "45111",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "56535",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "24881",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "5470",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "2774",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "6751",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "10497",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "36935",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "43566",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "18182",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "6907",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "2994",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "7029",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "9819",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "37830",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "38120",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "17948",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "7938",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "3536",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "6737",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "7226",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "31505",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "34005",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "14270",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "5564",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "2831",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "14470",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "8847",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "27544",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "27350",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "10461",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "6131",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "3285",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "5062",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "8884",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "32450",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "59237",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "28497",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "8655",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "2434",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "6078",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "7126",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "28262",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "46474",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "20803",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "9533",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "2900",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "5552",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "8203",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "32206",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "46189",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "18827",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "8200",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "2968",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "8445",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "8261",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "32758",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "41576",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "14381",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "7258",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "2414",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "21977",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "14233",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "43724",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "35428",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "8652",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "5431",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "1962",
+            "Hispanic": "Other",
+            "IMM": "Native",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "5797",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "4175",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "9522",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "7354",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "4614",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "2758",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "1164",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "25-34",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "9497",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "3368",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "11837",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "8302",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "6307",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "5303",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "2108",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "35-44",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "8224",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "2670",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "9511",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "7741",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "4724",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "3135",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "2464",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "45-54",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "5387",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "2221",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "6967",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "6026",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "3810",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "1613",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "1261",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "55-64",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "7645",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "2593",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "6656",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "5175",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "3369",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "1841",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "2025",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Male",
+            "AgeEduc": "65+",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "4585",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "2673",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "6621",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "6504",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "5157",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "2588",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "1373",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "25-34",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "7422",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "2619",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "10773",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "9354",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "8042",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "3864",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "2309",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "35-44",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "6488",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "3055",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "8260",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "9264",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "7267",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "3432",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "2055",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "45-54",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "5740",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "2233",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "7545",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "7765",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "4485",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "1709",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "1021",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "55-64",
+            "EducAll": "PhD-Prof"
+        },
+        {
+            "Dep": "12046",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "0-9 Years"
+        },
+        {
+            "Dep": "3778",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "10-12 Years"
+        },
+        {
+            "Dep": "10083",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "HSGrad"
+        },
+        {
+            "Dep": "7555",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "SomeColl"
+        },
+        {
+            "Dep": "4546",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "Collgrad"
+        },
+        {
+            "Dep": "1877",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "Master"
+        },
+        {
+            "Dep": "738",
+            "Hispanic": "Other",
+            "IMM": "Foreign Born",
+            "Sex": "Female",
+            "AgeEduc": "65+",
+            "EducAll": "PhD-Prof"
+        }
+    ]
+}
