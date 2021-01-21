@@ -7,7 +7,7 @@ $didUpdate = $_GET['updated'];
 $updatedFile = $_GET['file'];
 
 //$path = "/afs/umich.edu/group/s/ssdan/Public/scripts ";
-$path = "/mnt/c/Users/7339R/Documents/SSDAN/webchip/data";
+$path = "/mnt/d/SSDAN/Webchip/webchip/data";
 
 if (isset($_POST['title'])) {
 
@@ -29,9 +29,9 @@ if(isset($_GET['funcType'])){
 }
 
 //$refDict = getReferenceDict("/afs/umich.edu/group/s/ssdan/Public/html/sites/all/themes/bootstrap_subtheme/js/data/reference.json");
-$refDict = getReferenceDict("/mnt/c/users/7339R/Documents/SSDAN/webchip/data/reference.json");
+$refDict = getReferenceDict("/mnt/d/SSDAN/Webchip/webchip/data/reference.json");
 //$files = getAllFilesInCollection("/afs/umich.edu/group/s/ssdan/Public/html/sites/all/themes/bootstrap_subtheme/js/data", $collection, $refDict);
-$files = getAllFilesInCollection("/mnt/c/users/7339R/Documents/SSDAN/webchip/data", $collection, $refDict);
+$files = getAllFilesInCollection("/mnt/d/SSDAN/Webchip/webchip/data", $collection, $refDict);
 
 
 

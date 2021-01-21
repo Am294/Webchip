@@ -8,7 +8,7 @@ include '../scripts/pythonHelper.php';
 
 
 function editIndex($collection, $file, $funcType){
-    $path = "/mnt/c/Users/7339R/Documents/SSDAN/webchip/data";
+    $path = "/mnt/d/SSDAN/Webchip/webchip/data";
     //$path = "/afs/umich.edu/group/s/ssdan/Public/scripts";
 
     if ($funcType == "removeFile"){

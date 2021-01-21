@@ -13,7 +13,7 @@ class ManageIndex:
         self.ignore = set(['__pycache__', '.gitignore', 'prevFiles'])
         # Gets root of data directory
         #self.data_dir = '/'.join(os.path.realpath(__file__).split("/")[:-1]) + "/"
-        self.data_dir = '/mnt/c/Users/7339R/Documents/SSDAN/webchip/data/'
+        self.data_dir = '/mnt/d/SSDAN/Webchip/webchip/data/'
         #self.data_dir = '/mnt/d/SSDAN/html/sites/all/themes/bootstrap_subtheme/js/data/'
         #self.data_dir = '/afs/umich.edu/group/s/ssdan/Public/html/sites/all/themes/bootstrap_subtheme/js/data/'
 

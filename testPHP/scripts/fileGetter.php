@@ -16,7 +16,7 @@ function inIndex($refDict, $collection, $fileName=""){
             else{
                 $in = array("file_ref", $collection, $fileNameNew);
                 //Python Path
-                $arr = executePython("/mnt/c/Users/7339R/Documents/SSDAN/webchip/data", "manageIndex.py", $in);
+                $arr = executePython("/mnt/d/SSDAN/Webchip/webchip/data", "manageIndex.py", $in);
                 return False;
             }
         }
@@ -28,7 +28,7 @@ function inIndex($refDict, $collection, $fileName=""){
 
     else{
         $in = array("collection_ref", $collection);
-        $arr = executePython("/mnt/c/Users/7339R/Documents/SSDAN/webchip/data", "manageIndex.py", $in);
+        $arr = executePython("/mnt/d/SSDAN/webchip/Webchip/data", "manageIndex.py", $in);
         return false;
     }
 

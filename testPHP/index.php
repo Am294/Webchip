@@ -25,7 +25,7 @@ include 'scripts/edit.php';
    }
 
    //$refDict = getReferenceDict("/afs/umich.edu/group/s/ssdan/Public/html/sites/all/themes/bootstrap_subtheme/js/data/reference.json");
-   $refDict = getReferenceDict("/mnt/c/users/7339R/Documents/SSDAN/webchip/data/reference.json");
+   $refDict = getReferenceDict("/mnt/d/SSDAN/Webchip/webchip/data/reference.json");
 
    
  ?>
@@ -63,7 +63,7 @@ include 'scripts/edit.php';
 
    function generateDirsHtml($refDict){
       //$dirs = getAllDataDirs("/afs/umich.edu/group/s/ssdan/Public/html/sites/all/themes/bootstrap_subtheme/js/data", $refDict);
-      $dirs = getAllDataDirs("/mnt/c/users/7339R/Documents/SSDAN/webchip/data", $refDict);
+      $dirs = getAllDataDirs("/mnt/d/SSDAN/Webchip/webchip/data", $refDict);
       $counter = 0;
 
       foreach($dirs as $d => $val){
